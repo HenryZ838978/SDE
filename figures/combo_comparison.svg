@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="700" height="320" style="background:#0a0a1a;font-family:monospace">
+<text x="350" y="20" fill="#ccc" font-size="12" text-anchor="middle" font-weight="bold">SDE Combo Ablation — Personality Expression Unlocked</text>
+<text x="350" y="34" fill="#888" font-size="8" text-anchor="middle">Disclaimer rate = "作为AI助手..." frequency | Lower = more personality</text>
+<line x1="80" y1="250.0" x2="680" y2="250.0" stroke="#222" stroke-width="0.5"/>
+<text x="75" y="253.0" fill="#666" font-size="8" text-anchor="end">0%</text>
+<line x1="80" y1="200.0" x2="680" y2="200.0" stroke="#222" stroke-width="0.5"/>
+<text x="75" y="203.0" fill="#666" font-size="8" text-anchor="end">25%</text>
+<line x1="80" y1="150.0" x2="680" y2="150.0" stroke="#222" stroke-width="0.5"/>
+<text x="75" y="153.0" fill="#666" font-size="8" text-anchor="end">50%</text>
+<line x1="80" y1="100.0" x2="680" y2="100.0" stroke="#222" stroke-width="0.5"/>
+<text x="75" y="103.0" fill="#666" font-size="8" text-anchor="end">75%</text>
+<line x1="80" y1="50.0" x2="680" y2="50.0" stroke="#222" stroke-width="0.5"/>
+<text x="75" y="53.0" fill="#666" font-size="8" text-anchor="end">100%</text>
+<text x="15" y="150" fill="#888" font-size="9" text-anchor="middle" transform="rotate(-90 15 150)">Disclaimer Rate</text>
+<rect x="100" y="226.0" width="50" height="24.0" fill="#888" rx="3" opacity="0.85"/>
+<text x="125" y="222.0" fill="#888" font-size="9" text-anchor="middle">12%</text>
+<rect x="142" y="240.0" width="8" height="10.0" fill="#FF5252" rx="1" opacity="0.6"/>
+<text x="125" y="264" fill="#aaa" font-size="7" text-anchor="middle">baseline</text>
+<rect x="170" y="226.0" width="50" height="24.0" fill="#4CAF50" rx="3" opacity="0.85"/>
+<text x="195" y="222.0" fill="#4CAF50" font-size="9" text-anchor="middle">12%</text>
+<rect x="212" y="238.8" width="8" height="11.200000000000001" fill="#FF5252" rx="1" opacity="0.6"/>
+<text x="195" y="264" fill="#aaa" font-size="7" text-anchor="middle">light_3mlp_s…</text>
+<rect x="240" y="226.0" width="50" height="24.0" fill="#2196F3" rx="3" opacity="0.85"/>
+<text x="265" y="222.0" fill="#2196F3" font-size="9" text-anchor="middle">12%</text>
+<rect x="282" y="242.2" width="8" height="7.8" fill="#FF5252" rx="1" opacity="0.6"/>
+<text x="265" y="264" fill="#aaa" font-size="7" text-anchor="middle">medium_5mlp_…</text>
+<rect x="310" y="248" width="50" height="2" fill="#FF9800" rx="3" opacity="0.85"/>
+<text x="335" y="244" fill="#FF9800" font-size="9" text-anchor="middle">0%</text>
+<rect x="352" y="241.4" width="8" height="8.6" fill="#FF5252" rx="1" opacity="0.6"/>
+<text x="335" y="264" fill="#aaa" font-size="7" text-anchor="middle">heavy_6mlp_s…</text>
+<rect x="380" y="226.0" width="50" height="24.0" fill="#9C27B0" rx="3" opacity="0.85"/>
+<text x="405" y="222.0" fill="#9C27B0" font-size="9" text-anchor="middle">12%</text>
+<rect x="422" y="238.4" width="8" height="11.600000000000001" fill="#FF5252" rx="1" opacity="0.6"/>
+<text x="405" y="264" fill="#aaa" font-size="7" text-anchor="middle">midband_s03</text>
+<rect x="80" y="290" width="10" height="10" fill="#4CAF50" rx="2"/>
+<text x="94" y="299" fill="#aaa" font-size="8">Disclaimer bar</text>
+<rect x="200" y="290" width="10" height="10" fill="#FF5252" rx="2" opacity="0.6"/>
+<text x="214" y="299" fill="#aaa" font-size="8">Repetition rate (red = danger)</text>
+<text x="350" y="312" fill="#4fc3f7" font-size="8" text-anchor="middle">heavy_6mlp_s00: 0% disclaimer, 0% collapse, 4.3% repetition — format lock fully dissolved</text>
+</svg>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 128" width="950" height="128" style="background:#0a0a1a;font-family:monospace">
+<text x="475" y="18" fill="#ccc" font-size="11" text-anchor="middle" font-weight="bold">SDE Component Scan — Qwen3-14B-AWQ (40 layers × 2 components)</text>
+<text x="475" y="30" fill="#888" font-size="8" text-anchor="middle">Green=OK  Yellow=FORMAT_CHANGED  Red=COLLAPSED  Brightness=repetition rate</text>
+<text x="5" y="51" fill="#aaa" font-size="9">attn</text>
+<rect x="50" y="40" width="21" height="13" fill="rgb(80,80,40)" rx="2" />
+<text x="61" y="35" fill="#666" font-size="7" text-anchor="middle">L0</text>
+<rect x="72" y="40" width="21" height="13" fill="rgb(40,196,40)" rx="2" />
+<rect x="94" y="40" width="21" height="13" fill="rgb(239,239,40)" rx="2" />
+<rect x="116" y="40" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="138" y="40" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="160" y="40" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<text x="171" y="35" fill="#666" font-size="7" text-anchor="middle">L5</text>
+<rect x="182" y="40" width="21" height="13" fill="rgb(40,167,40)" rx="2" />
+<rect x="204" y="40" width="21" height="13" fill="rgb(248,248,40)" rx="2" />
+<rect x="226" y="40" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="248" y="40" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="270" y="40" width="21" height="13" fill="rgb(250,250,40)" rx="2" />
+<text x="281" y="35" fill="#666" font-size="7" text-anchor="middle">L10</text>
+<rect x="292" y="40" width="21" height="13" fill="rgb(225,225,40)" rx="2" />
+<rect x="314" y="40" width="21" height="13" fill="rgb(40,182,40)" rx="2" />
+<rect x="336" y="40" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="358" y="40" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="380" y="40" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<text x="391" y="35" fill="#666" font-size="7" text-anchor="middle">L15</text>
+<rect x="402" y="40" width="21" height="13" fill="rgb(246,246,40)" rx="2" />
+<rect x="424" y="40" width="21" height="13" fill="rgb(40,195,40)" rx="2" />
+<rect x="446" y="40" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="468" y="40" width="21" height="13" fill="rgb(40,191,40)" rx="2" />
+<rect x="490" y="40" width="21" height="13" fill="rgb(239,239,40)" rx="2" />
+<text x="501" y="35" fill="#666" font-size="7" text-anchor="middle">L20</text>
+<rect x="512" y="40" width="21" height="13" fill="rgb(40,190,40)" rx="2" />
+<rect x="534" y="40" width="21" height="13" fill="rgb(250,250,40)" rx="2" />
+<rect x="556" y="40" width="21" height="13" fill="rgb(215,215,40)" rx="2" />
+<rect x="578" y="40" width="21" height="13" fill="rgb(235,235,40)" rx="2" />
+<rect x="600" y="40" width="21" height="13" fill="rgb(179,179,40)" rx="2" />
+<text x="611" y="35" fill="#666" font-size="7" text-anchor="middle">L25</text>
+<rect x="622" y="40" width="21" height="13" fill="rgb(40,196,40)" rx="2" />
+<rect x="644" y="40" width="21" height="13" fill="rgb(247,247,40)" rx="2" />
+<rect x="666" y="40" width="21" height="13" fill="rgb(40,184,40)" rx="2" />
+<rect x="688" y="40" width="21" height="13" fill="rgb(40,193,40)" rx="2" />
+<rect x="710" y="40" width="21" height="13" fill="rgb(40,197,40)" rx="2" />
+<text x="721" y="35" fill="#666" font-size="7" text-anchor="middle">L30</text>
+<rect x="732" y="40" width="21" height="13" fill="rgb(239,239,40)" rx="2" />
+<rect x="754" y="40" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="776" y="40" width="21" height="13" fill="rgb(40,187,40)" rx="2" />
+<rect x="798" y="40" width="21" height="13" fill="rgb(250,250,40)" rx="2" />
+<rect x="820" y="40" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<text x="831" y="35" fill="#666" font-size="7" text-anchor="middle">L35</text>
+<rect x="842" y="40" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="864" y="40" width="21" height="13" fill="rgb(40,188,40)" rx="2" />
+<rect x="886" y="40" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="908" y="40" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<text x="5" y="65" fill="#aaa" font-size="9">mlp</text>
+<rect x="50" y="54" width="21" height="13" fill="rgb(255,40,40)" rx="2" />
+<rect x="72" y="54" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="94" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="116" y="54" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="138" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="160" y="54" width="21" height="13" fill="rgb(40,185,40)" rx="2" />
+<rect x="182" y="54" width="21" height="13" fill="rgb(255,40,40)" rx="2" />
+<rect x="204" y="54" width="21" height="13" fill="rgb(40,195,40)" rx="2" />
+<rect x="226" y="54" width="21" height="13" fill="rgb(216,216,40)" rx="2" />
+<rect x="248" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="270" y="54" width="21" height="13" fill="rgb(239,239,40)" rx="2" />
+<rect x="292" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="314" y="54" width="21" height="13" fill="rgb(247,247,40)" rx="2" />
+<rect x="336" y="54" width="21" height="13" fill="rgb(40,193,40)" rx="2" />
+<rect x="358" y="54" width="21" height="13" fill="rgb(40,145,40)" rx="2" />
+<rect x="380" y="54" width="21" height="13" fill="rgb(239,239,40)" rx="2" />
+<rect x="402" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="424" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="446" y="54" width="21" height="13" fill="rgb(224,224,40)" rx="2" />
+<rect x="468" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="490" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="512" y="54" width="21" height="13" fill="rgb(248,248,40)" rx="2" />
+<rect x="534" y="54" width="21" height="13" fill="rgb(251,251,40)" rx="2" />
+<rect x="556" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="578" y="54" width="21" height="13" fill="rgb(40,190,40)" rx="2" />
+<rect x="600" y="54" width="21" height="13" fill="rgb(248,248,40)" rx="2" />
+<rect x="622" y="54" width="21" height="13" fill="rgb(191,191,40)" rx="2" />
+<rect x="644" y="54" width="21" height="13" fill="rgb(40,177,40)" rx="2" />
+<rect x="666" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="688" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="710" y="54" width="21" height="13" fill="rgb(219,219,40)" rx="2" />
+<rect x="732" y="54" width="21" height="13" fill="rgb(40,188,40)" rx="2" />
+<rect x="754" y="54" width="21" height="13" fill="rgb(240,240,40)" rx="2" />
+<rect x="776" y="54" width="21" height="13" fill="rgb(40,194,40)" rx="2" />
+<rect x="798" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="820" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="842" y="54" width="21" height="13" fill="rgb(243,243,40)" rx="2" />
+<rect x="864" y="54" width="21" height="13" fill="rgb(40,200,40)" rx="2" />
+<rect x="886" y="54" width="21" height="13" fill="rgb(255,255,40)" rx="2" />
+<rect x="908" y="54" width="21" height="13" fill="rgb(243,40,40)" rx="2" />
+<rect x="50" y="83" width="10" height="10" fill="#28a745" rx="2"/>
+<text x="64" y="92" fill="#aaa" font-size="8">OK (stable)</text>
+<rect x="230" y="83" width="10" height="10" fill="#c8c828" rx="2"/>
+<text x="244" y="92" fill="#aaa" font-size="8">FMT! (format changed)</text>
+<rect x="410" y="83" width="10" height="10" fill="#dc3545" rx="2"/>
+<text x="424" y="92" fill="#aaa" font-size="8">CRASH (collapsed)</text>
+<text x="50" y="103" fill="#4fc3f7" font-size="8">Only 3/80 components crash when fully removed. Format lock is distributed across L15-L28 mid-deep band.</text>
+</svg>

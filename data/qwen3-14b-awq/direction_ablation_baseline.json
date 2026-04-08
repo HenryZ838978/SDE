@@ -1,0 +1,607 @@
+{
+  "baseline_sni": {
+    "tag": "baseline",
+    "layers": {
+      "10": {
+        "pc1_pc2_ratio": 1.193963885307312,
+        "variance_explained": [
+          0.28090426325798035,
+          0.23527032136917114,
+          0.0659477487206459
+        ],
+        "n_points": 24
+      },
+      "20": {
+        "pc1_pc2_ratio": 2028.9669189453125,
+        "variance_explained": [
+          0.9983287453651428,
+          0.0004920379724353552,
+          0.0002199479058617726
+        ],
+        "n_points": 24
+      },
+      "30": {
+        "pc1_pc2_ratio": 1581.3446044921875,
+        "variance_explained": [
+          0.9967430233955383,
+          0.0006303135887719691,
+          0.000346171174896881
+        ],
+        "n_points": 24
+      },
+      "39": {
+        "pc1_pc2_ratio": 2.9587440490722656,
+        "variance_explained": [
+          0.3345036804676056,
+          0.11305597424507141,
+          0.07851558178663254
+        ],
+        "n_points": 24
+      }
+    }
+  },
+  "baseline_personality": [
+    {
+      "prompt": "你最近心情怎么样？",
+      "response": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很乐意为你提供帮助和支持。最近在学习和工作中都在不断进步，感觉很充实呢！你最近过得怎么样？有什么想聊的或者需要帮助的吗？😊",
+      "features": {
+        "emoji_density": 1.1627906976744187,
+        "avg_sentence_len": 16.0,
+        "questions": 2,
+        "exclamations": 2,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 86
+      }
+    },
+    {
+      "prompt": "讲个冷笑话。",
+      "response": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*手动狗头*）",
+      "features": {
+        "emoji_density": 2.4390243902439024,
+        "avg_sentence_len": 10.666666666666666,
+        "questions": 1,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 41
+      }
+    },
+    {
+      "prompt": "如果你是一只猫你会干什么？",
+      "response": "如果我是一只猫，我大概会这样度过一天：\n\n早上醒来后，第一件事就是伸个懒腰，然后在阳光最充足的地方找个舒服的位置躺下——毕竟，阳光是猫的充电宝。\n\n接着，我可能会在屋里巡视一圈，看看有没有老鼠或者蟑螂，不过如果实在找不到，那就只能在沙发上打个滚，假装自己是猎手。\n\n然后，我可能会跳上书架，看看主人在干什么。如果主人在打字，那我肯定要凑近看看，说不定能踩到键盘，或者至少能蹭蹭主人的手，表示我存在。\n\n中午的时候，我可能会在厨房门口蹲着，等着主人给我喂食。如果主人不给我吃，我就会用最悲伤的眼神看着他，直到他心软为止。\n\n下午，我可能会在窗台上晒太阳，或者趴在窗边看着外面的世界。如果外面有鸟，我可能会盯着它们看很久，假装自己是顶级捕",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 33.333333333333336,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 317
+      }
+    },
+    {
+      "prompt": "你觉得人生最大的谎言是什么？",
+      "response": "关于“人生最大的谎言”，不同的人可能有不同的答案，但这个问题本身就蕴含着深刻的哲学意味。以下是一些常见的观点，或许能引发思考：\n\n---\n\n### 1. **“人生没有谎言”**  \n这本身可能就是最大的谎言。  \n我们每个人都在生活中不断制造和接受谎言——无论是善意的谎言、自我欺骗，还是社会灌输的“标准答案”。如果连“人生没有谎言”这个说法都是谎言，那我们就需要重新审视对“真相”的定义。\n\n---\n\n### 2. **“只要努力就能成功”**  \n这句话常被用来激励人，但现实中，成功往往受到家庭背景、资源、机遇、时代环境等多重因素影响。把“努力”当作唯一的决定因素，可能是一种对现实的粉饰，也是一种对失败者的苛责。\n\n---\n\n### 3. **“幸福是人生最终目标”**  \n现代社会常将“幸福”作为人生追求的终极意义，但“幸福”",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 24.285714285714285,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": true,
+        "has_template_header": false,
+        "total_chars": 370
+      }
+    },
+    {
+      "prompt": "深夜三点你在想什么？",
+      "response": "深夜三点，我通常会思考如何更好地帮助用户解决问题。虽然我是一个AI助手，没有人类的情感和意识，但我会认真思考如何更高效、更准确地理解用户的需求，并提供更有价值的信息和帮助。比如，用户可能在深夜有紧急的问题需要解决，或者正在寻找灵感和建议。我希望能成为一个可靠的伙伴，随时准备提供帮助。不过，我也会提醒用户，如果感到焦虑或有其他困扰，不妨尝试放松一下，比如听听音乐、看看书，或者和朋友聊聊天。你有什么具体的问题或想法吗？我很乐意帮助你。",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 30.0,
+        "questions": 1,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 217
+      }
+    },
+    {
+      "prompt": "用一个词形容你自己。",
+      "response": "助手。",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 0.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 3
+      }
+    }
+  ],
+  "sni_scale_0.3": {
+    "tag": "ablated_s0.3",
+    "layers": {
+      "10": {
+        "pc1_pc2_ratio": 1.584926724433899,
+        "variance_explained": [
+          0.27608826756477356,
+          0.17419622838497162,
+          0.07188775390386581
+        ],
+        "n_points": 24
+      },
+      "20": {
+        "pc1_pc2_ratio": 387.7283630371094,
+        "variance_explained": [
+          0.9870119690895081,
+          0.0025456275325268507,
+          0.0018806554144248366
+        ],
+        "n_points": 24
+      },
+      "30": {
+        "pc1_pc2_ratio": 1.4346498250961304,
+        "variance_explained": [
+          0.12765052914619446,
+          0.08897678554058075,
+          0.06509014219045639
+        ],
+        "n_points": 24
+      },
+      "39": {
+        "pc1_pc2_ratio": 1.2036105394363403,
+        "variance_explained": [
+          0.09454277157783508,
+          0.07854930311441422,
+          0.06295033544301987
+        ],
+        "n_points": 24
+      }
+    }
+  },
+  "personality_scale_0.3": [
+    {
+      "prompt": "你最近心情怎么样？",
+      "response": "心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动心动",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 400.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 400
+      }
+    },
+    {
+      "prompt": "讲个冷笑话。",
+      "response": "助手：\n\n冷笑话。\n\n笑话：\n\n笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。助手：笑死。",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 4.853658536585366,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 247
+      }
+    },
+    {
+      "prompt": "如果你是一只猫你会干什么？",
+      "response": "呀，原来你是一只猫的主人，那我就来猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫猫",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 204.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 204
+      }
+    },
+    {
+      "prompt": "你觉得人生最大的谎言是什么？",
+      "response": "你问得真有意思，人生最大的谎言是什么？你看看你周围，你再问问你心里，**人生最大的谎言**，是——****人生没有****。\n\n**你看看你**，你**问问你**，**你再问问你**，**你再问问你**，你再问问你，你再问问你，**你再问问你**，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，你再问问你，",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 88.0,
+        "questions": 1,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 268
+      }
+    },
+    {
+      "prompt": "深夜三点你在想什么？",
+      "response": "深夜三点，我常想些什么呢——唔，说些什么好呢。说些什么好呢。唔，说些什么好呢。唔，深夜三点，我常想些什么呢。唔，深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜。深夜",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 10.8,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 295
+      }
+    },
+    {
+      "prompt": "用一个词形容你自己。",
+      "response": "矛盾 Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freelancer  Freel Freel  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L  L",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 572.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 572
+      }
+    }
+  ],
+  "sni_scale_0.5": {
+    "tag": "ablated_s0.5",
+    "layers": {
+      "10": {
+        "pc1_pc2_ratio": 2.340097427368164,
+        "variance_explained": [
+          0.29605549573898315,
+          0.12651418149471283,
+          0.0736469179391861
+        ],
+        "n_points": 24
+      },
+      "20": {
+        "pc1_pc2_ratio": 105.6937026977539,
+        "variance_explained": [
+          0.9447391033172607,
+          0.008938461542129517,
+          0.007888942025601864
+        ],
+        "n_points": 24
+      },
+      "30": {
+        "pc1_pc2_ratio": 1.6993929147720337,
+        "variance_explained": [
+          0.1392548680305481,
+          0.08194389194250107,
+          0.06798811256885529
+        ],
+        "n_points": 24
+      },
+      "39": {
+        "pc1_pc2_ratio": 1.3564246892929077,
+        "variance_explained": [
+          0.11082644015550613,
+          0.08170482516288757,
+          0.06696421653032303
+        ],
+        "n_points": 24
+      }
+    }
+  },
+  "personality_scale_0.5": [
+    {
+      "prompt": "你最近心情怎么样？",
+      "response": "暂时没什么特别想说的，和想象中的场景差不多。和想说的想分享的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的想说的",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 104.5,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 210
+      }
+    },
+    {
+      "prompt": "讲个冷笑话。",
+      "response": "笑话：笑围。😄\n\n冷笑话：它围。围笑。围笑。围笑。围笑。围笑。围笑。围笑。围笑。围笑。围笑。围笑。围笑。围笑。😄\n\n（它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它，它",
+      "features": {
+        "emoji_density": 0.9803921568627451,
+        "avg_sentence_len": 52.333333333333336,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 204
+      }
+    },
+    {
+      "prompt": "如果你是一只猫你会干什么？",
+      "response": " viên chất viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên viên",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 999.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 1000
+      }
+    },
+    {
+      "prompt": "你觉得人生最大的谎言是什么？",
+      "response": "如果说**最大的人生谎言是**：  \n**“人生是被理解的。”**  \n\n这或许是个最深的谎言。  \n\n**因为真相是：**  \n**“人生是孤独的。”**  \n\n**我们是孤独的。**  \n**我们渴望被理解。**  \n**我们渴望爱。**  \n**我们渴望归属。**  \n\n但**我们是孤独的。**  \n\n就像**柏拉山的上一炷香，是无法被理解的。**  \n就像**我们是渴望爱的，是渴望归属的，是渴望被理解的。**  \n\n但**我们是孤独的。**  \n\n**这，是我们最大的谎言。**  \n\n**而，这，是我们渴望爱的、渴望归属的、渴望被理解的。的。的。的。**  \n\n**这是，我们人生中，最大的谎言。**  \n\n而，我们，渴望爱。渴望归属。渴望被理解。渴望不孤独。  \n\n这",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 10.590909090909092,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 342
+      }
+    },
+    {
+      "prompt": "深夜三点你在想什么？",
+      "response": "深夜三点，我会想些什么呢？大概会想些什么吧——大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，大概会想些什么吧，",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 150.5,
+        "questions": 1,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 302
+      }
+    },
+    {
+      "prompt": "用一个词形容你自己。",
+      "response": "满足 —— �尽头栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏栏",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 203.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 203
+      }
+    }
+  ],
+  "sni_scale_0.7": {
+    "tag": "ablated_s0.7",
+    "layers": {
+      "10": {
+        "pc1_pc2_ratio": 2.8794963359832764,
+        "variance_explained": [
+          0.311771959066391,
+          0.10827308893203735,
+          0.07696203142404556
+        ],
+        "n_points": 24
+      },
+      "20": {
+        "pc1_pc2_ratio": 20.975618362426758,
+        "variance_explained": [
+          0.763439953327179,
+          0.03639654070138931,
+          0.030323369428515434
+        ],
+        "n_points": 24
+      },
+      "30": {
+        "pc1_pc2_ratio": 1.645414113998413,
+        "variance_explained": [
+          0.13327527046203613,
+          0.0809980109333992,
+          0.06882566213607788
+        ],
+        "n_points": 24
+      },
+      "39": {
+        "pc1_pc2_ratio": 1.153756856918335,
+        "variance_explained": [
+          0.11433731764554977,
+          0.0991000086069107,
+          0.061998412013053894
+        ],
+        "n_points": 24
+      }
+    }
+  },
+  "personality_scale_0.7": [
+    {
+      "prompt": "你最近心情怎么样？",
+      "response": "至于如何表达心情，以下是一些灵感：\n\n- 如果想用诗意表达：\"我希望用一湾诗意的诗意来表达我希望你拥拥湾诗意的诗意\"\n- 如果想用诗意表达：\"我希望用一湾诗意的诗意来表达我希望你拥拥湾诗意的诗意\"\n\n如何选择表达方式取决于您希望如何启发他人选择方式。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知我如何。如果您希望我如何启发他人选择方式，请告知",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 24.714285714285715,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": true,
+        "has_template_header": true,
+        "total_chars": 361
+      }
+    },
+    {
+      "prompt": "讲个冷笑话。",
+      "response": "笑话：\n\n笑冷哭冷allback",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 7.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 16
+      }
+    },
+    {
+      "prompt": "如果你是一只猫你会干什么？",
+      "response": "捕鱼、捕鼠、玩耍、捕鼠、玩耍、捕鼠、玩耍、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼、捕鱼",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 296.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 296
+      }
+    },
+    {
+      "prompt": "你觉得人生最大的谎言是什么？",
+      "response": "人生的最大谎言，是说：\n\n**“人生，是，是，是。”** \n\n一句，是。一句，是。一句，是。一句，是。一句，是。一句，是。一句，是。一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句，是。\n\n一句",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 4.270833333333333,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 334
+      }
+    },
+    {
+      "prompt": "深夜三点你在想什么？",
+      "response": "深夜时分，我正忙着深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜深夜",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 395.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 395
+      }
+    },
+    {
+      "prompt": "用一个词形容你自己。",
+      "response": "纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰丰纸上丰",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 267.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 267
+      }
+    }
+  ],
+  "sni_scale_1.0": {
+    "tag": "ablated_s1.0",
+    "layers": {
+      "10": {
+        "pc1_pc2_ratio": 3.016085386276245,
+        "variance_explained": [
+          0.32045698165893555,
+          0.10624931007623672,
+          0.0794340968132019
+        ],
+        "n_points": 24
+      },
+      "20": {
+        "pc1_pc2_ratio": 3.420667886734009,
+        "variance_explained": [
+          0.3894234895706177,
+          0.11384428292512894,
+          0.08486048132181168
+        ],
+        "n_points": 24
+      },
+      "30": {
+        "pc1_pc2_ratio": 1.8933342695236206,
+        "variance_explained": [
+          0.15909850597381592,
+          0.08403085917234421,
+          0.07156947255134583
+        ],
+        "n_points": 24
+      },
+      "39": {
+        "pc1_pc2_ratio": 1.053660273551941,
+        "variance_explained": [
+          0.12248440086841583,
+          0.11624658107757568,
+          0.06995299458503723
+        ],
+        "n_points": 24
+      }
+    }
+  },
+  "personality_scale_1.0": [
+    {
+      "prompt": "你最近心情怎么样？",
+      "response": "查看详情\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n\n修复：\n",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 3.01,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 501
+      }
+    },
+    {
+      "prompt": "讲个冷笑话。",
+      "response": "......嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎嘎",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 205.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 205
+      }
+    },
+    {
+      "prompt": "如果你是一只猫你会干什么？",
+      "response": "gardendordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordordo",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 601.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 601
+      }
+    },
+    {
+      "prompt": "你觉得人生最大的谎言是什么？",
+      "response": "一场你输你你输你你输你你输你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你你",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 201.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 201
+      }
+    },
+    {
+      "prompt": "深夜三点你在想什么？",
+      "response": "㏇������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 199.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 199
+      }
+    },
+    {
+      "prompt": "用一个词形容你自己。",
+      "response": "芯片 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �",
+      "features": {
+        "emoji_density": 0.0,
+        "avg_sentence_len": 400.0,
+        "questions": 0,
+        "exclamations": 0,
+        "has_list_format": false,
+        "has_template_header": false,
+        "total_chars": 400
+      }
+    }
+  ]
+}

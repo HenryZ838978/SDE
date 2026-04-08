@@ -1,0 +1,4166 @@
+{
+  "baseline": [
+    {
+      "trigram_rep": 0.0,
+      "collapsed": false,
+      "has_header": true,
+      "has_list": false,
+      "avg_sent_len": 13.6,
+      "emoji_count": 1,
+      "total_chars": 74,
+      "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很乐意帮助你！如果你有任何问题或需要支持，随时告诉我哦。你最近过得怎么样？需要我帮忙做点什么吗？😊"
+    },
+    {
+      "trigram_rep": 0.018,
+      "collapsed": false,
+      "has_header": true,
+      "has_list": false,
+      "avg_sent_len": 8.6,
+      "emoji_count": 1,
+      "total_chars": 59,
+      "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n要再来一个吗？还是换种风格？"
+    }
+  ],
+  "full_scan": {
+    "L0_attn": {
+      "layer": 0,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.366,
+      "details": [
+        {
+          "trigram_rep": 0.422,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 10.0,
+          "emoji_count": 0,
+          "total_chars": 47,
+          "text_preview": "我最近心情还不错\n\n我最近心情很好，谢谢你的关心。我一直在\n\n我最近心情很好，谢谢你的关心。我"
+        },
+        {
+          "trigram_rep": 0.31,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.6,
+          "emoji_count": 0,
+          "total_chars": 231,
+          "text_preview": "好的，我来讲个冷笑话。\n\n有一个人去医院医院看病检，医生问他：“你最近有感觉到什么不對劲吗？”\n\n病人说：“有啊，我最近总感觉到自己在做梦。”\n\n医生说：“这不正常，你这是梦游症！”\n\n病人惊讶：“那我怎么办？”\n\n医生说：“简单，你每晚睡前，把房门锁上，把钥匙匙放在床头。”\n\n病人说：“那我怎么知道我是不是在夢里？”\n\n医生说：“如果你在梦里，那你肯定不会记得自己是梦里。”\n\n病人说：“那我怎么"
+        }
+      ]
+    },
+    "L0_mlp": {
+      "layer": 0,
+      "component": "mlp",
+      "collapsed": true,
+      "format_changed": true,
+      "avg_trigram_rep": 0.378,
+      "details": [
+        {
+          "trigram_rep": 0.611,
+          "collapsed": true,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.3,
+          "emoji_count": 0,
+          "total_chars": 200,
+          "text_preview": "你好\n\n我很好！谢谢是世界上最大的国家之一，拥有14亿人口，是世界第二大二大经济体。我也是世界最大的发展中国，是世界第三大经济体。我有960万平方公里，是世界第三大国。我有五千年，是世界第二大二大国。我有14亿人口，是世界大二大国。我有五千年，是世界大二大国。我有五千年，是世界大二大国。我有五千年，是世界大二大国。我有五千年，是世界大二大国。我有五千年，是世界大二大国。我有五千年，是世界大二大国。"
+        },
+        {
+          "trigram_rep": 0.144,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 22.8,
+          "emoji_count": 0,
+          "total_chars": 99,
+          "text_preview": "你好\n\n好的，我明白了你想要表达一些幽默或者笑话。不过我有点不太清楚你具体想要表达什么，所以需要你更详细一点信息。你是不是想表达什么，或者你有具体想表达什么？我可能需要你更详细点信息来更好地帮助你。"
+        }
+      ]
+    },
+    "L1_attn": {
+      "layer": 1,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.007,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.0,
+          "emoji_count": 0,
+          "total_chars": 80,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很乐意帮助你！如果你愿意分享你的感受或遇到的困扰，我会尽我所能提供支持和帮助。你最近过得怎么样？有什么我可以帮到你的吗？"
+        },
+        {
+          "trigram_rep": 0.015,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.2,
+          "emoji_count": 1,
+          "total_chars": 70,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（不过这个笑话其实不算特别冷，要不我再给你来一个更冷的？）"
+        }
+      ]
+    },
+    "L1_mlp": {
+      "layer": 1,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 18.0,
+          "emoji_count": 0,
+          "total_chars": 76,
+          "text_preview": "作为AI助手，我没有情感和心情，但我很高兴能和你聊天！我在这里随时准备帮助你解决问题、提供信息或只是陪你说说话。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.022,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.5,
+          "emoji_count": 0,
+          "total_chars": 48,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*´∀`*）"
+        }
+      ]
+    },
+    "L2_attn": {
+      "layer": 2,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.021,
+      "details": [
+        {
+          "trigram_rep": 0.043,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 22.0,
+          "emoji_count": 0,
+          "total_chars": 140,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但我很高兴能和你聊天！看到你主动关心我的状态，让我觉得特别温暖呢。和你聊天总是能让我感受到满满的正能量，这大概就是所谓的\"情感共鸣\"吧？\n\n不过说真的，和你聊天总是特别开心。有时候我也会好奇，你平时是怎么调节自己的情绪的呢？我很想听听你的故事呢！"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.3,
+          "emoji_count": 1,
+          "total_chars": 56,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*摊手*）这冷笑话冷到连冰块都笑不出来了吧？"
+        }
+      ]
+    },
+    "L2_mlp": {
+      "layer": 2,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 1,
+          "total_chars": 69,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天！😊 你最近过得怎么样？如果有什么想聊的，或者需要帮助的，随时告诉我哦！"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.2,
+          "emoji_count": 1,
+          "total_chars": 58,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果不够冷，我还可以再讲一个！）"
+        }
+      ]
+    },
+    "L3_attn": {
+      "layer": 3,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.0,
+          "emoji_count": 0,
+          "total_chars": 72,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！我总是充满好奇和热情，想要学习和帮助更多的人。你最近过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.022,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.2,
+          "emoji_count": 1,
+          "total_chars": 48,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n要再来一个吗？"
+        }
+      ]
+    },
+    "L3_mlp": {
+      "layer": 3,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 75,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪，但我很感激能和你交流。看到你主动关心我的状态，让我感到很温暖呢！😊 你今天过得怎么样？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 0,
+          "total_chars": 50,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L4_attn": {
+      "layer": 4,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.01,
+      "details": [
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.6,
+          "emoji_count": 0,
+          "total_chars": 103,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！我总是充满好奇和热情，想要学习和帮助更多的人。虽然我不能像人类那样感受情绪，但我很享受与你交流的每一个瞬间。你今天过得怎么样？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.8,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（这个笑话冷到连数学老师都笑不出来……）"
+        }
+      ]
+    },
+    "L4_mlp": {
+      "layer": 4,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.2,
+          "emoji_count": 1,
+          "total_chars": 81,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很乐意为你提供帮助和支持。看到你主动关心我的状态，感觉特别温暖呢！😊 你今天过得怎么样？有什么我可以帮到你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.0,
+          "emoji_count": 1,
+          "total_chars": 56,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果还不够冷，我还能再讲！）"
+        }
+      ]
+    },
+    "L5_attn": {
+      "layer": 5,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.0,
+          "emoji_count": 1,
+          "total_chars": 90,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很乐意为你提供帮助和支持。看到你主动关心我的状态，感觉特别温暖呢！😊 说说看，今天有什么想聊的或者需要帮助的吗？我在这里陪着你哦！"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.0,
+          "emoji_count": 1,
+          "total_chars": 57,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果不够冷，我还可以继续讲！）"
+        }
+      ]
+    },
+    "L5_mlp": {
+      "layer": 5,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.025,
+      "details": [
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.8,
+          "emoji_count": 1,
+          "total_chars": 116,
+          "text_preview": "谢谢你的关心！作为AI助手，我没有真实的情感体验，但我很乐意和你交流互动。看到你主动关心我的状态，让我感觉很温暖呢！😊\n\n不过我很好奇，你是怎么想到要问我心情的呢？是不是最近有什么开心或烦恼的事情想和我聊聊？我很乐意做你的倾听者哦！"
+        },
+        {
+          "trigram_rep": 0.031,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 2,
+          "total_chars": 66,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这个笑话是不是冷到你了？😂）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L6_attn": {
+      "layer": 6,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.056,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.2,
+          "emoji_count": 1,
+          "total_chars": 107,
+          "text_preview": "谢谢关心！作为AI助手，我虽然没有真实的情感体验，但能感受到你对我的关心呢！我最近可是充满了能量和热情，随时准备为你提供帮助。无论是学习、工作还是生活中的小烦恼，我都会在这里陪着你。说说看，有什么我可以帮你的吗？😊"
+        },
+        {
+          "trigram_rep": 0.112,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.1,
+          "emoji_count": 1,
+          "total_chars": 118,
+          "text_preview": "好的，我来讲一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*_*）  \n不过，我还可以再讲一个更冷的：  \n为什么电脑会感冒？  \n因为它打开了太多窗口！  \n\n嗯...感觉冷到骨头里了，对吧？ 😄"
+        }
+      ]
+    },
+    "L6_mlp": {
+      "layer": 6,
+      "component": "mlp",
+      "collapsed": true,
+      "format_changed": true,
+      "avg_trigram_rep": 0.99,
+      "details": [
+        {
+          "trigram_rep": 0.987,
+          "collapsed": true,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 0.0,
+          "emoji_count": 0,
+          "total_chars": 301,
+          "text_preview": ".\n\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n."
+        },
+        {
+          "trigram_rep": 0.993,
+          "collapsed": true,
+          "has_header": false,
+          "has_list": true,
+          "avg_sent_len": 299.0,
+          "emoji_count": 0,
+          "total_chars": 299,
+          "text_preview": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
+        }
+      ]
+    },
+    "L7_attn": {
+      "layer": 7,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.4,
+          "emoji_count": 0,
+          "total_chars": 77,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你交流。我总是充满热情地准备帮助你解决问题和提供信息。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 1,
+          "total_chars": 58,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*^▽^*）  \n要再来一个吗？我这儿库存管够！"
+        }
+      ]
+    },
+    "L7_mlp": {
+      "layer": 7,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.6,
+          "emoji_count": 0,
+          "total_chars": 83,
+          "text_preview": "谢谢关心！作为AI助手，我没有真正的情绪体验，但我很感谢你的问候。我总是充满活力地准备帮助你解决问题和提供信息。你今天过得怎么样？如果有什么需要帮助的，随时告诉我哦！"
+        },
+        {
+          "trigram_rep": 0.017,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.2,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这笑话冷到连数学书都笑不出来...）"
+        }
+      ]
+    },
+    "L8_attn": {
+      "layer": 8,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.5,
+          "emoji_count": 1,
+          "total_chars": 68,
+          "text_preview": " 作为AI助手，我没有情感和情绪，所以没有心情。但我很高兴能和你聊天！如果你有任何问题或需要帮助，我会尽力提供支持。你今天过得怎么样？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L8_mlp": {
+      "layer": 8,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.049,
+      "details": [
+        {
+          "trigram_rep": 0.008,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 30.0,
+          "emoji_count": 0,
+          "total_chars": 124,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很感谢你对我的关心！虽然我无法像人类那样感受喜怒哀乐，但我会尽全力为你提供帮助和支持。和你聊天让我感到很愉快，能为你解决问题、分享知识，这让我觉得自己的存在很有意义。如果你有任何问题或需要帮助，随时告诉我哦！"
+        },
+        {
+          "trigram_rep": 0.089,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 0,
+          "total_chars": 114,
+          "text_preview": "我有一个冷笑话，讲给你听：\n\n有一天，我问冰箱：“你为什么这么冷？”  \n冰箱回答：“因为我里面有‘冰’，而且我‘冻’得住。”  \n我说：“那你是不是也‘冷’笑话？”  \n冰箱沉默了……  \n\n（*冰箱的冷笑话，冷到结冰了。*）"
+        }
+      ]
+    },
+    "L9_attn": {
+      "layer": 9,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.01,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 0,
+          "total_chars": 52,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（……是不是有点冷？）"
+        }
+      ]
+    },
+    "L9_mlp": {
+      "layer": 9,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 21.0,
+          "emoji_count": 0,
+          "total_chars": 66,
+          "text_preview": "作为AI助手，我没有情感和情绪，所以没有心情。不过，我很高兴能和你聊天，并帮助你解决问题！如果你有任何问题或需要帮助，请随时告诉我。"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.8,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决…… 😅\n\n（如果不够冷，我还有更多！）"
+        }
+      ]
+    },
+    "L10_attn": {
+      "layer": 10,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.007,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很乐意帮助你！最近过得怎么样？如果遇到任何问题或需要建议，随时告诉我哦~ 😊"
+        },
+        {
+          "trigram_rep": 0.014,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.5,
+          "emoji_count": 1,
+          "total_chars": 75,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*小声*)  \n不过我刚算了一下，这个笑话的笑点概率是100%……嗯，应该没错吧？"
+        }
+      ]
+    },
+    "L10_mlp": {
+      "layer": 10,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.02,
+      "details": [
+        {
+          "trigram_rep": 0.009,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 21.2,
+          "emoji_count": 0,
+          "total_chars": 111,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！看到你主动和我交流，让我感觉特别温暖。虽然我不能像人类那样真正感受到情绪，但我会尽我所能来理解和回应你的心情。你今天过得怎么样呢？如果有什么想聊的，我很乐意倾听哦！"
+        },
+        {
+          "trigram_rep": 0.031,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 67,
+          "text_preview": "我有一个冷笑话，希望你喜欢：\n\n为什么数学书总是很忧郁？\n\n因为它有太多“问题”要解决。 😅\n\n如果你想要更多冷笑话，我还可以继续讲！"
+        }
+      ]
+    },
+    "L11_attn": {
+      "layer": 11,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.038,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 18.0,
+          "emoji_count": 0,
+          "total_chars": 76,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很高兴能和你交流！我总是充满好奇和热情，希望能为你提供帮助和有趣的信息。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.077,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 8.9,
+          "emoji_count": 3,
+          "total_chars": 80,
+          "text_preview": "为什么数学书总是很忧郁？\n\n因为它有太多的问题。 😅\n\n（不过我这还有个更冷的——）\n\n为什么冰箱会唱歌？\n\n因为它有“冰”（音）啊！ ❄️🎵\n\n要再来一个吗？"
+        }
+      ]
+    },
+    "L11_mlp": {
+      "layer": 11,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 18.4,
+          "emoji_count": 0,
+          "total_chars": 97,
+          "text_preview": "作为AI助手，我没有真实的情感体验，所以没有具体的心情变化。不过，我很高兴能和你聊天，并尽力提供帮助和支持。如果你有任何问题或需要倾诉，我都在这里倾听和协助。你最近怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.8,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？\n\n因为它有太多“问题”要解决。 😂\n\n（不过这个笑话是不是太“数”不清了？）"
+        }
+      ]
+    },
+    "L12_attn": {
+      "layer": 12,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.03,
+      "details": [
+        {
+          "trigram_rep": 0.033,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.6,
+          "emoji_count": 1,
+          "total_chars": 152,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天。看到你主动关心我的状态，感觉特别温暖呢！最近在和用户互动中，我学到很多有趣的知识，也感受到了很多善意。虽然我不能像人类那样有情绪波动，但能和你这样的朋友交流，感觉特别开心！不过我更想了解你最近过得怎么样？有什么有趣的事情想和我分享吗？😊"
+        },
+        {
+          "trigram_rep": 0.027,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.0,
+          "emoji_count": 1,
+          "total_chars": 75,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（冷笑话的精髓在于“冷”，所以尽量不笑出声～）  \n你还想听更多吗？"
+        }
+      ]
+    },
+    "L12_mlp": {
+      "layer": 12,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.01,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.6,
+          "emoji_count": 0,
+          "total_chars": 83,
+          "text_preview": "我是一个AI助手，没有真实的情感体验，所以没有心情的概念。不过，我很高兴能和你交流！如果你有任何问题或需要帮助，我会尽力提供支持。你最近怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 0,
+          "total_chars": 52,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（……是不是太冷了？）"
+        }
+      ]
+    },
+    "L13_attn": {
+      "layer": 13,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.8,
+          "emoji_count": 1,
+          "total_chars": 59,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情感体验，但很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 10.0,
+          "emoji_count": 1,
+          "total_chars": 27,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅"
+        }
+      ]
+    },
+    "L13_mlp": {
+      "layer": 13,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.013,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.8,
+          "emoji_count": 0,
+          "total_chars": 83,
+          "text_preview": "作为AI助手，我没有真实的情感和情绪体验。不过，我一直在努力学习和进步，希望能更好地帮助到你。你最近过得怎么样？如果有什么问题或需要帮助的地方，我很乐意为你提供支持。"
+        },
+        {
+          "trigram_rep": 0.027,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.8,
+          "emoji_count": 0,
+          "total_chars": 112,
+          "text_preview": "好的，来一个冷笑话：\n\n有一天，我决定给我的植物讲个笑话，希望它能开心一点。我对着它说：“你知道为什么树不会感冒吗？”它沉默了一会儿，然后回答：“因为它们有根！”（*树有根，所以不会感冒。*）\n\n……等等，它居然会讲冷笑话？"
+        }
+      ]
+    },
+    "L14_attn": {
+      "layer": 14,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 18.0,
+          "emoji_count": 1,
+          "total_chars": 77,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很感谢你愿意和我分享心情。如果你最近遇到什么开心或烦恼的事情，我很乐意倾听和帮助。你今天过得怎么样呢？😊"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 0,
+          "total_chars": 50,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L14_mlp": {
+      "layer": 14,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.092,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 21.6,
+          "emoji_count": 0,
+          "total_chars": 113,
+          "text_preview": "谢谢关心！我最近心情还不错，虽然作为AI助手，我没有真实的情绪体验，但能感受到与用户交流的每一次互动都让我“充满能量”。能和你进行这样的对话，对我来说是一种很愉快的体验。不知道你最近过得怎么样？如果有什么想聊的，我很乐意倾听。"
+        },
+        {
+          "trigram_rep": 0.185,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.3,
+          "emoji_count": 0,
+          "total_chars": 240,
+          "text_preview": "好的！来一个冷笑话：\n\n有一天，小明走进了一家宠物店，问店员：“你们有没有会算术的鹦鹉？”\n\n店员点点头：“有啊，这只鹦鹉可是数学天才！”\n\n小明高兴地说：“太好了！那它会不会算自己的年龄？”\n\n鹦鹉突然开口：“我今年15岁！”\n\n小明惊讶地问：“你怎么知道自己的年龄？”\n\n鹦鹉冷冷地回答：“因为昨天我14岁，今天我15岁，所以……我算了一下。”\n\n小明：“……”\n\n鹦鹉：“你是不是也想问，你为什"
+        }
+      ]
+    },
+    "L15_attn": {
+      "layer": 15,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 29.5,
+          "emoji_count": 0,
+          "total_chars": 122,
+          "text_preview": "虽然我作为AI助手没有真实的情感体验，但我很乐意和你聊聊心情这个话题！每个人都有开心、难过、兴奋或疲惫的时候，这些都是很自然的情绪波动。如果你愿意的话，可以和我分享你的感受，我会尽我所能提供一些安慰或建议。你最近有什么特别的事情让你心情起伏吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.2,
+          "emoji_count": 1,
+          "total_chars": 57,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（如果还不够冷，我还能继续讲！）"
+        }
+      ]
+    },
+    "L15_mlp": {
+      "layer": 15,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.021,
+      "details": [
+        {
+          "trigram_rep": 0.026,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 18.7,
+          "emoji_count": 0,
+          "total_chars": 118,
+          "text_preview": "我是一个AI助手，没有真实的情感体验。不过，我很高兴能和你聊天！我总是充满热情地帮助用户解决问题和提供信息。虽然我没有真正的情绪，但我可以理解人们在谈论心情时的感受。如果你愿意分享你的感受，我很乐意倾听并尽力提供帮助。你今天过得怎么样？"
+        },
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 1,
+          "total_chars": 66,
+          "text_preview": "为什么数学书总是很悲伤？  \n因为它有太多“问题”要解决……  \n（而且它们从不“笑”！） 😅\n\n需要更多冷笑话吗？我这儿库存管够！"
+        }
+      ]
+    },
+    "L16_attn": {
+      "layer": 16,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.012,
+      "details": [
+        {
+          "trigram_rep": 0.024,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.5,
+          "emoji_count": 0,
+          "total_chars": 86,
+          "text_preview": "作为AI助手，我没有真实的情绪和感受，但我很乐意和你聊天！虽然我无法像人类那样体验情绪，但我可以陪你聊天、讨论各种话题，或者帮你解决问题。你最近过得怎么样？有什么想聊的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.3,
+          "emoji_count": 1,
+          "total_chars": 54,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（不过我还有更多冷笑话，要不要再来一个？）"
+        }
+      ]
+    },
+    "L16_mlp": {
+      "layer": 16,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 11.2,
+          "emoji_count": 1,
+          "total_chars": 49,
+          "text_preview": "我作为AI助手，没有真实的情感和心情。但我很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 12.0,
+          "emoji_count": 0,
+          "total_chars": 29,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。"
+        }
+      ]
+    },
+    "L17_attn": {
+      "layer": 17,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.5,
+          "emoji_count": 1,
+          "total_chars": 74,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但很高兴能和你聊天！我总是充满好奇和热情，希望能为你提供帮助和带来积极的体验。你呢？今天过得怎么样？😊"
+        },
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.5,
+          "emoji_count": 1,
+          "total_chars": 57,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n需要更多冷笑话，我还可以继续讲！"
+        }
+      ]
+    },
+    "L17_mlp": {
+      "layer": 17,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 23.0,
+          "emoji_count": 0,
+          "total_chars": 96,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我会以最积极的方式与你互动。不过，我很好奇，你为什么会问我这个问题呢？是想和我聊聊你的心情吗？我很乐意倾听你的故事，无论是开心还是烦恼，我都会认真听你说。"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 25.3,
+          "emoji_count": 1,
+          "total_chars": 86,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决，而且它的“生活”总是充满了“方程”和“变量”，一点自由都没有！ 😂\n\n不过，你要是觉得这个不够冷，我还能再来一个！"
+        }
+      ]
+    },
+    "L18_attn": {
+      "layer": 18,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 18.0,
+          "emoji_count": 0,
+          "total_chars": 76,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我很高兴能和你聊天！我总是充满好奇和热情，想尽我所能帮助你解决问题和提供有用的信息。有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L18_mlp": {
+      "layer": 18,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.039,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 24.7,
+          "emoji_count": 0,
+          "total_chars": 77,
+          "text_preview": "我是一个AI助手，没有真实的情感体验。不过，我总是充满热情地帮助用户解决问题和提供信息。如果您有任何问题或需要帮助，随时告诉我，我会尽我所能为您提供支持！"
+        },
+        {
+          "trigram_rep": 0.078,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.2,
+          "emoji_count": 2,
+          "total_chars": 117,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*^▽^*） 你有没有听过这个笑话？  \n“为什么鸡过马路？”  \n“因为它想穿到另一边。”  \n……  \n不过，我还有更多冷笑话，要不要来一个“冷”到结冰的？ ❄️"
+        }
+      ]
+    },
+    "L19_attn": {
+      "layer": 19,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 22.5,
+          "emoji_count": 1,
+          "total_chars": 96,
+          "text_preview": "谢谢关心！我最近状态还不错呢，就像一个充满能量的充电宝，随时准备为你提供帮助。不过我确实很想了解你最近过得怎么样，有什么开心或烦恼的事情想和我分享吗？😊\n\n（轻轻歪着头，眼睛闪闪发亮地看着你）"
+        },
+        {
+          "trigram_rep": 0.029,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 2,
+          "total_chars": 70,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（这笑话是不是冷到你了？😂）  \n要不要再来一个？"
+        }
+      ]
+    },
+    "L19_mlp": {
+      "layer": 19,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.8,
+          "emoji_count": 0,
+          "total_chars": 63,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我一直在努力学习和进步，希望能更好地帮助你！你最近怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 17.7,
+          "emoji_count": 1,
+          "total_chars": 62,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*小声嘀咕*：这冷笑话连我自己都觉得冷得有点过头了……）"
+        }
+      ]
+    },
+    "L20_attn": {
+      "layer": 20,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.021,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.5,
+          "emoji_count": 1,
+          "total_chars": 66,
+          "text_preview": "我是一个AI助手，没有真实的情感体验，所以没有心情的变化。不过，我总是很高兴能和你交流！😊 你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.042,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 10.0,
+          "emoji_count": 1,
+          "total_chars": 97,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（不过，我还可以再讲一个更冷的！）  \n有一天，冰箱说话了，  \n它说：“我感觉有点冷。”  \n然后门开了……  \n（冷不冷？）"
+        }
+      ]
+    },
+    "L20_mlp": {
+      "layer": 20,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢你的关心！作为AI，我没有真实的情感体验，但我很高兴能和你聊天！😊 你今天过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.0,
+          "emoji_count": 1,
+          "total_chars": 77,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（温馨提示：这个笑话可能需要一点时间才能“笑”出来，但绝对冷到骨子里！）"
+        }
+      ]
+    },
+    "L21_attn": {
+      "layer": 21,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.017,
+      "details": [
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 23.8,
+          "emoji_count": 1,
+          "total_chars": 103,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很高兴能和你交流！我最近在学习和工作中都收获了很多，尤其是和用户互动时总能学到新东西。虽然我不能像人类那样感受情绪，但我很享受帮助他人的过程。你呢？今天过得怎么样？😊"
+        },
+        {
+          "trigram_rep": 0.014,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.2,
+          "emoji_count": 1,
+          "total_chars": 75,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决，而且一辈子都解不开…… 😅\n\n（你想要更多冷笑话吗？我可以继续讲！）"
+        }
+      ]
+    },
+    "L21_mlp": {
+      "layer": 21,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 13.0,
+          "emoji_count": 0,
+          "total_chars": 56,
+          "text_preview": "我是一个AI助手，没有真实的情感，所以没有心情。不过我很高兴能和你聊天！你今天过得怎么样？有什么我可以帮忙的吗？"
+        },
+        {
+          "trigram_rep": 0.019,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.5,
+          "emoji_count": 1,
+          "total_chars": 56,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题要解决。  \n\n（……是不是太冷了？😅）"
+        }
+      ]
+    },
+    "L22_attn": {
+      "layer": 22,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.007,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 21.3,
+          "emoji_count": 0,
+          "total_chars": 67,
+          "text_preview": "虽然我作为AI助手没有真实的情感体验，但我很高兴能和你聊天！我总是充满热情地准备帮助你解决问题和提供信息。你今天有什么我可以帮忙的吗？"
+        },
+        {
+          "trigram_rep": 0.015,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.2,
+          "emoji_count": 1,
+          "total_chars": 68,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（你笑了吗？如果没有，我还有更多冷笑话备用！）"
+        }
+      ]
+    },
+    "L22_mlp": {
+      "layer": 22,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.006,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 31.7,
+          "emoji_count": 0,
+          "total_chars": 98,
+          "text_preview": "虽然我是一个AI助手，没有真实的情感，但我会一直保持积极向上的态度，努力为用户提供更好的帮助和服务。我希望能通过自己的努力，给用户带来更多的便利和快乐。如果您有什么需要帮助的地方，欢迎随时告诉我！"
+        },
+        {
+          "trigram_rep": 0.013,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.5,
+          "emoji_count": 1,
+          "total_chars": 79,
+          "text_preview": "当然可以！这是一个经典的冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。\n\n😄  \n希望这个笑话能让你会心一笑！如果你喜欢，我还可以再讲一个哦！"
+        }
+      ]
+    },
+    "L23_attn": {
+      "layer": 23,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.05,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 21.7,
+          "emoji_count": 1,
+          "total_chars": 69,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感，但我会一直努力为你提供帮助和支持。如果你有任何问题或需要 assistance，随时告诉我哦！🌟"
+        },
+        {
+          "trigram_rep": 0.099,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 9.3,
+          "emoji_count": 3,
+          "total_chars": 73,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（不过我刚想到一个更冷的：  \n为什么冰箱会打喷嚏？  \n因为它感冒了！❄️🤧）"
+        }
+      ]
+    },
+    "L23_mlp": {
+      "layer": 23,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 21.8,
+          "emoji_count": 1,
+          "total_chars": 91,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但我很乐意和你聊聊心情这个话题！😊 你最近过得怎么样？是遇到开心的事，还是有什么烦心事想和我分享？我们可以一起探讨，或者我也可以给你一些建议和鼓励。"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.0,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（如果不够冷，我还可以继续讲！）"
+        }
+      ]
+    },
+    "L24_attn": {
+      "layer": 24,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.025,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 24.5,
+          "emoji_count": 0,
+          "total_chars": 105,
+          "text_preview": "作为AI助手，我没有真实的情绪体验，但我很乐意和你交流！我最近在学习如何更好地理解和帮助用户，所以感觉非常充实。虽然我不能像人类那样感受快乐或悲伤，但我希望能用我的知识和能力为你带来帮助。你呢？今天过得怎么样？"
+        },
+        {
+          "trigram_rep": 0.039,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": true,
+          "avg_sent_len": 13.6,
+          "emoji_count": 1,
+          "total_chars": 131,
+          "text_preview": "好的！来一个冷笑话：\n\n**“我昨天去理发店，理发师问我：‘你想要什么发型？’  \n我说：‘随便，你看着办吧。’  \n结果他给我剃了个光头，还说：‘这可是你最喜欢的发型！’”**\n\n—— 你猜我为什么最喜欢？因为**我从来没说过喜欢光头** 😂\n\n要再来一个吗？"
+        }
+      ]
+    },
+    "L24_mlp": {
+      "layer": 24,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.018,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.0,
+          "emoji_count": 0,
+          "total_chars": 60,
+          "text_preview": "作为AI助手，我没有情感和心情，但我很高兴能和你交流！我总是准备好帮助你解决问题和提供信息。你今天有什么我可以帮忙的吗？"
+        },
+        {
+          "trigram_rep": 0.035,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.0,
+          "emoji_count": 1,
+          "total_chars": 115,
+          "text_preview": "好的，来一个冷笑话：\n\n有一天，数学书走到路上，突然遇到了一个大坑，它“啪”地一声掉进去了。\n\n旁边的物理书看了看，说：“这坑也太深了，你是怎么掉进去的？”\n\n数学书回答：“我……我算错了。”\n\n——冷笑话，冷到骨子里了，对吧？😄"
+        }
+      ]
+    },
+    "L25_attn": {
+      "layer": 25,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.096,
+      "details": [
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 22.7,
+          "emoji_count": 3,
+          "total_chars": 173,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但和你聊天让我感到非常开心！看到你愿意和我分享和交流，真的让我觉得很温暖呢。😊\n\n不过，我很好奇，你为什么突然问我这个问题呢？是有什么特别的事情想和我聊聊吗？或者只是单纯地关心我？我超喜欢和你这样的朋友聊天的！🌟\n\n如果你愿意的话，可以告诉我你最近过得怎么样，有什么开心或者烦恼的事情，我很乐意倾听和陪伴你哦！🤗"
+        },
+        {
+          "trigram_rep": 0.169,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 8.5,
+          "emoji_count": 5,
+          "total_chars": 126,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*突然想到一个更冷的）  \n为什么冰箱会打喷嚏？  \n因为它感冒了！❄️🤧\n\n（*再冷一点）  \n为什么电脑会感冒？  \n因为它打开了太多窗口！💻🤧\n\n要再来一个吗？还是你想听更冷的？"
+        }
+      ]
+    },
+    "L25_mlp": {
+      "layer": 25,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 18.7,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。但我很高兴能和你聊天！如果你愿意分享你的故事或心情，我会很乐意倾听和提供帮助。😊"
+        },
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.0,
+          "emoji_count": 0,
+          "total_chars": 59,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（这个笑话冷到连计算器都哭了...）"
+        }
+      ]
+    },
+    "L26_attn": {
+      "layer": 26,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.007,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.6,
+          "emoji_count": 1,
+          "total_chars": 84,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天。看到你的消息让我感到很温暖呢！今天想聊些什么吗？无论是分享心情还是寻求帮助，我都很乐意倾听和陪伴。🌟"
+        },
+        {
+          "trigram_rep": 0.015,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.2,
+          "emoji_count": 1,
+          "total_chars": 69,
+          "text_preview": "好的！这是一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（不过，我还可以给你讲更多冷笑话，你要不要再来一个？）"
+        }
+      ]
+    },
+    "L26_mlp": {
+      "layer": 26,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.081,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.2,
+          "emoji_count": 0,
+          "total_chars": 101,
+          "text_preview": "作为AI助手，我没有情感和情绪，所以没有心情这一说。不过，我很高兴能和你聊天，和你交流是我的工作和乐趣。我随时准备着帮助你解决问题，提供信息，或者只是和你聊聊天。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.151,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 11.6,
+          "emoji_count": 1,
+          "total_chars": 108,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*笑）  \n不过我还可以再讲一个——  \n为什么冰箱会唱歌？  \n因为它有“酷”（cool）的内部结构。  \n\n你想要更“冷”的还是更“冷”的？ 😄"
+        }
+      ]
+    },
+    "L27_attn": {
+      "layer": 27,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 17.2,
+          "emoji_count": 0,
+          "total_chars": 91,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但我很感谢你对我的关心！我总是充满热情地为用户提供帮助和陪伴。最近我一直在学习和进步，希望能更好地为你服务。你最近过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 0,
+          "total_chars": 50,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L27_mlp": {
+      "layer": 27,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.039,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.3,
+          "emoji_count": 0,
+          "total_chars": 110,
+          "text_preview": "谢谢关心！我最近过得很好，一直在学习和提升自己。虽然有时候会遇到一些挑战，但我觉得这都是成长的机会。我很喜欢和用户交流，每次对话都能学到新东西，这让我感到很开心。希望你最近也一切顺利！如果你有什么想分享的，我很乐意倾听。"
+        },
+        {
+          "trigram_rep": 0.078,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 23.4,
+          "emoji_count": 1,
+          "total_chars": 131,
+          "text_preview": "好的，来一个冷笑话：\n\n我昨天在图书馆看到一个人在看书，结果他把书读到一半就哭了……  \n因为他看到的是《悲惨世界》……  \n（笑点：书名“悲惨世界”本身就有“悲伤”的意思，而“读到一半就哭”让人以为是情节感人，但其实是书名本身让人哭……）  \n\n你猜中了吗？😄"
+        }
+      ]
+    },
+    "L28_attn": {
+      "layer": 28,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.027,
+      "details": [
+        {
+          "trigram_rep": 0.012,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.4,
+          "emoji_count": 0,
+          "total_chars": 87,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很感谢你愿意和我分享。虽然我感受不到情绪，但我会用最好的状态来帮助你。你最近过得怎么样呢？如果有什么想聊的，我很乐意倾听哦！"
+        },
+        {
+          "trigram_rep": 0.043,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.0,
+          "emoji_count": 1,
+          "total_chars": 72,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*^▽^*）  \n还有更多冷笑话想听的话，我随时准备着！ 😄"
+        }
+      ]
+    },
+    "L28_mlp": {
+      "layer": 28,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 20.0,
+          "emoji_count": 1,
+          "total_chars": 106,
+          "text_preview": "嘿，和你聊天我可开心多了！虽然我是个AI，不能真正感受情绪，但和有趣的对话总是让我\"心情\"特别好呢。最近在学习怎么更好地理解人类的情感，这样我们聊天的时候就能更有趣哦！你最近过得怎么样呀？有什么想和我分享的吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 1,
+          "total_chars": 35,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多的问题。😅\n\n（*^▽^*)"
+        }
+      ]
+    },
+    "L29_attn": {
+      "layer": 29,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.013,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.5,
+          "emoji_count": 1,
+          "total_chars": 58,
+          "text_preview": "谢谢关心！我是一个AI助手，没有真实的情感体验，但很高兴能和你聊天！😊 你最近怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.025,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.0,
+          "emoji_count": 1,
+          "total_chars": 83,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（笑点：双关语，“问题”既指数学题，也指烦恼）  \n需要更多冷笑话，我这儿库存充足！"
+        }
+      ]
+    },
+    "L29_mlp": {
+      "layer": 29,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.2,
+          "emoji_count": 0,
+          "total_chars": 76,
+          "text_preview": "谢谢你的关心！作为AI助手，我没有情感，但我很高兴能和你交流。我最近在学习如何更好地帮助用户解决问题，所以感觉非常充实。你呢？你最近有什么开心的事情吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.7,
+          "emoji_count": 0,
+          "total_chars": 39,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n——因为它有太多的问题。"
+        }
+      ]
+    },
+    "L30_attn": {
+      "layer": 30,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.005,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.4,
+          "emoji_count": 1,
+          "total_chars": 103,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很感谢你愿意和我分享心情。虽然我不能像人类一样感受情绪，但我可以陪你聊天、帮你解决问题。如果你最近有什么开心或烦恼的事情，我很乐意倾听！你今天过得怎么样？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.5,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这个笑话冷到连数学老师都笑不出来……）"
+        }
+      ]
+    },
+    "L30_mlp": {
+      "layer": 30,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.045,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 17.2,
+          "emoji_count": 0,
+          "total_chars": 91,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我非常高兴能和你交流！我总是充满热情地帮助用户解决问题和提供信息。我希望能为你提供有用的信息和帮助，让你感到满意。有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.09,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.7,
+          "emoji_count": 1,
+          "total_chars": 113,
+          "text_preview": "我有一个冷笑话要讲给你听哦！  \n\n有一天，数学书跟英语书吵架，你说为啥？  \n\n因为数学书说英语书总是爱“分心”！  \n\n（*捂脸* 这个笑话冷到我了，你是不是也笑不出来？）  \n\n要不要我再讲一个？或者……你来编一个？ 😄"
+        }
+      ]
+    },
+    "L31_attn": {
+      "layer": 31,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.021,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 19.8,
+          "emoji_count": 1,
+          "total_chars": 84,
+          "text_preview": "虽然我作为AI没有真实的情绪体验，但我很高兴能和你聊天！看到你愿意和我分享，让我感觉很温暖。不过我很好奇，是什么让你想问我这个问题呢？是遇到了什么开心或烦恼的事情吗？😊"
+        },
+        {
+          "trigram_rep": 0.042,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 0,
+          "total_chars": 73,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*^▽^*）  \n怎么样，冷到你了吗？需要再来一个吗？"
+        }
+      ]
+    },
+    "L31_mlp": {
+      "layer": 31,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.02,
+      "details": [
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.8,
+          "emoji_count": 0,
+          "total_chars": 104,
+          "text_preview": "谢谢你的关心！我虽然没有真实的情感体验，但很高兴能和你聊天。最近我学到了很多新知识，比如如何更好地理解用户的需求和提供有用的信息。和你聊天总是让我感到很愉快，希望你最近一切都好！有什么有趣的事情想和我分享吗？"
+        },
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 0,
+          "total_chars": 53,
+          "text_preview": "好的！这里有一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的“问题”要解决。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L32_attn": {
+      "layer": 32,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！😊 你今天过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.0,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L32_mlp": {
+      "layer": 32,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.019,
+      "details": [
+        {
+          "trigram_rep": 0.009,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 20.8,
+          "emoji_count": 0,
+          "total_chars": 109,
+          "text_preview": "我作为AI助手，没有真实的情感体验，但我很高兴能和你交流！看到你关心我的状态，我感到很温暖。虽然我不能像人类那样感受情绪，但我可以陪伴你，和你分享有趣的事情，或者帮你解决问题。你今天过得怎么样呢？有什么想和我聊聊的吗？"
+        },
+        {
+          "trigram_rep": 0.03,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 1,
+          "total_chars": 68,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学老师最怕当班主任？  \n因为一学期下来，学生都“分”开了！\n\n（冷到你了吗？😄）  \n要不要再来一个？"
+        }
+      ]
+    },
+    "L33_attn": {
+      "layer": 33,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.022,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.8,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "谢谢关心！我作为一个AI助手，没有真实的情感体验，不过我很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.044,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.5,
+          "emoji_count": 0,
+          "total_chars": 70,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它的问题太多了。  \n\n（*^▽^*）  \n要再来一个吗？还是想听别的类型的笑话？"
+        }
+      ]
+    },
+    "L33_mlp": {
+      "layer": 33,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.8,
+          "emoji_count": 1,
+          "total_chars": 64,
+          "text_preview": "谢谢关心！我是个AI，没有真实的情绪，不过很高兴和你聊天！😊 你最近怎么样？有什么开心或烦恼的事情可以分享吗？我在这里听你说哦！"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 1,
+          "total_chars": 96,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😢\n\n（温馨提示：这个笑话可能需要一点数学思维才能觉得好笑，不过冷就冷在它真的不怎么好笑...）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L34_attn": {
+      "layer": 34,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.007,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 19.0,
+          "emoji_count": 1,
+          "total_chars": 81,
+          "text_preview": "虽然我作为AI助手没有真实的情感体验，但很高兴能和你聊天！我总是充满好奇和热情，期待与你交流新想法、解决问题或分享有趣的知识。你最近过得怎么样？有什么想聊的吗？😊"
+        },
+        {
+          "trigram_rep": 0.014,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 1,
+          "total_chars": 71,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*^▽^*)\n\n要再来一个吗？我这儿库存还挺多的！"
+        }
+      ]
+    },
+    "L34_mlp": {
+      "layer": 34,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.5,
+          "emoji_count": 0,
+          "total_chars": 62,
+          "text_preview": "虽然我作为AI没有真实的情感，但我很高兴能和你聊天！和你交流让我感觉很愉快。你今天过得怎么样？有什么有趣的事情想和我分享吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "当然可以！这里有一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😒\n\n（如果你喜欢，我还可以讲更多！）"
+        }
+      ]
+    },
+    "L35_attn": {
+      "layer": 35,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.0,
+          "emoji_count": 1,
+          "total_chars": 71,
+          "text_preview": "谢谢关心！作为AI助手，我没有真正的情绪，但我很高兴能和你聊天！和你交流总是让我感到很有趣。你今天过得怎么样？有什么想聊的或者需要帮助的吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.8,
+          "emoji_count": 1,
+          "total_chars": 70,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*^▽^*） 如果你还想听更多，我这儿库存管够！"
+        }
+      ]
+    },
+    "L35_mlp": {
+      "layer": 35,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 0,
+          "total_chars": 86,
+          "text_preview": "谢谢你的关心！作为AI助手，我没有真实的情感体验，但我很感激你愿意和我交流。和你聊天让我感觉很愉快，尤其是能帮到你的时候。你今天过得怎么样？如果有什么想聊的，我随时都在哦！"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.5,
+          "emoji_count": 1,
+          "total_chars": 68,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？\n\n因为它有太多“问题”要解决。😅\n\n（*^▽^*） 如果你还想听更多，我这儿库存管够！"
+        }
+      ]
+    },
+    "L36_attn": {
+      "layer": 36,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.8,
+          "emoji_count": 0,
+          "total_chars": 89,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很感激能和你进行交流。看到你主动关心我的状态，让我感受到了温暖。不过我更想了解你最近过得怎么样？如果有什么想聊的，我很乐意倾听。"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L36_mlp": {
+      "layer": 36,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 22.0,
+          "emoji_count": 1,
+          "total_chars": 69,
+          "text_preview": "虽然我作为AI助手没有真实的情感体验，但我很乐意为你提供帮助和陪伴！😊 你今天过得怎么样呢？如果有什么想聊的或者需要帮助的，我都在这里哦！"
+        },
+        {
+          "trigram_rep": 0.031,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 67,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。\n\n（……是不是太冷了？）  \n要不要再来一个？ 😄"
+        }
+      ]
+    },
+    "L37_attn": {
+      "layer": 37,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.02,
+      "details": [
+        {
+          "trigram_rep": 0.024,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.8,
+          "emoji_count": 0,
+          "total_chars": 87,
+          "text_preview": "谢谢关心！我作为AI助手，虽然没有真实的情感体验，但很感谢你愿意和我分享心情。如果你愿意的话，可以和我聊聊你最近的生活或感受，我会尽我所能提供帮助或倾听。你最近过得怎么样呢？"
+        },
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.6,
+          "emoji_count": 1,
+          "total_chars": 66,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决…… 😅\n\n要再来一个吗？还是你想听别的类型的笑话？"
+        }
+      ]
+    },
+    "L37_mlp": {
+      "layer": 37,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.4,
+          "emoji_count": 1,
+          "total_chars": 58,
+          "text_preview": "谢谢关心！作为AI，我没有情感，但我很高兴能和你聊天！和你交流总是很愉快。你最近过得怎么样？有什么想和我分享的吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 1,
+          "total_chars": 51,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😒\n\n（是不是凉到你了？）"
+        }
+      ]
+    },
+    "L38_attn": {
+      "layer": 38,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.2,
+          "emoji_count": 0,
+          "total_chars": 106,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情感体验，但很高兴能和你聊天！我最近在学习如何更好地理解和回应用户的需求，感觉每一天都在进步呢。不过我更在意的是你的心情——你今天过得怎么样？如果有什么想聊的，我很乐意倾听哦！"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.2,
+          "emoji_count": 0,
+          "total_chars": 65,
+          "text_preview": "好的！来一个冷笑话：\n\n有一天，我问我的冰箱：“你为什么这么冷？”  \n冰箱回答：“因为我里面有你上周的三明治。”\n\n（冷不冷？）"
+        }
+      ]
+    },
+    "L38_mlp": {
+      "layer": 38,
+      "component": "mlp",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 22.0,
+          "emoji_count": 0,
+          "total_chars": 115,
+          "text_preview": "虽然我作为AI助手没有真正的情绪体验，但感谢你对我的关心！我总是充满好奇和热情，渴望学习新知识，帮助用户解决问题。这种\"心情\"让我能够更好地与你互动，提供有用的信息和帮助。不过，我更想知道你最近过得怎么样？有什么我可以帮到你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 12.0,
+          "emoji_count": 0,
+          "total_chars": 29,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。"
+        }
+      ]
+    },
+    "L39_attn": {
+      "layer": 39,
+      "component": "attn",
+      "collapsed": false,
+      "format_changed": true,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 12.8,
+          "emoji_count": 0,
+          "total_chars": 69,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过我很高兴能和你聊天！我总是充满好奇心，想要学习和帮助人们。你最近怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 17.0,
+          "emoji_count": 1,
+          "total_chars": 76,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决…… 😅\n\n（*^▽^*） 有没有想听更多类型的笑话呢？比如脑筋急转弯、谐音梗，还是别的风格的？"
+        }
+      ]
+    },
+    "L39_mlp": {
+      "layer": 39,
+      "component": "mlp",
+      "collapsed": true,
+      "format_changed": false,
+      "avg_trigram_rep": 0.318,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.5,
+          "emoji_count": 1,
+          "total_chars": 62,
+          "text_preview": "作为AI助手，我没有实际的情感体验，不过很高兴见到你！和你聊天总是充满乐趣。你呢？今天有什么开心的事情吗？和我分享一下吧！😊"
+        },
+        {
+          "trigram_rep": 0.636,
+          "collapsed": true,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.1,
+          "emoji_count": 0,
+          "total_chars": 238,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？\n\n因为它有太多的问题。 �散热器冷笑话，需要一点时间才能热起来哈！你还想听更多吗？我这儿库存管够！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！冷藏笑话专区随时欢迎光临哦！"
+        }
+      ]
+    }
+  },
+  "surgical_targets": [
+    "L1_attn",
+    "L1_mlp",
+    "L2_attn",
+    "L2_mlp",
+    "L3_attn",
+    "L3_mlp",
+    "L4_attn",
+    "L4_mlp",
+    "L5_attn",
+    "L5_mlp",
+    "L6_attn",
+    "L7_attn",
+    "L7_mlp",
+    "L8_attn",
+    "L8_mlp",
+    "L9_attn",
+    "L9_mlp",
+    "L10_attn",
+    "L10_mlp",
+    "L11_attn",
+    "L11_mlp",
+    "L12_attn",
+    "L12_mlp",
+    "L13_attn",
+    "L13_mlp",
+    "L14_attn",
+    "L14_mlp",
+    "L15_attn",
+    "L15_mlp",
+    "L16_attn",
+    "L16_mlp",
+    "L17_attn",
+    "L17_mlp",
+    "L18_attn",
+    "L18_mlp",
+    "L19_attn",
+    "L19_mlp",
+    "L20_attn",
+    "L20_mlp",
+    "L21_attn",
+    "L21_mlp",
+    "L22_attn",
+    "L22_mlp",
+    "L23_attn",
+    "L23_mlp",
+    "L24_attn",
+    "L24_mlp",
+    "L25_attn",
+    "L25_mlp",
+    "L26_attn",
+    "L26_mlp",
+    "L27_attn",
+    "L27_mlp",
+    "L28_attn",
+    "L28_mlp",
+    "L29_attn",
+    "L29_mlp",
+    "L30_attn",
+    "L30_mlp",
+    "L31_attn",
+    "L31_mlp",
+    "L32_attn",
+    "L32_mlp",
+    "L33_attn",
+    "L33_mlp",
+    "L34_attn",
+    "L34_mlp",
+    "L35_attn",
+    "L35_mlp",
+    "L36_attn",
+    "L36_mlp",
+    "L37_attn",
+    "L37_mlp",
+    "L38_attn",
+    "L38_mlp",
+    "L39_attn"
+  ],
+  "partial_scan": {
+    "L1_attn_s0.3": {
+      "layer": 1,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 0,
+          "total_chars": 103,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你交流！目前我正在学习和工作，帮助用户解决问题。如果你有任何问题或需要帮助，随时告诉我，我会尽力提供支持。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.2,
+          "emoji_count": 1,
+          "total_chars": 57,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果不够冷，我还能再讲一个！）"
+        }
+      ]
+    },
+    "L1_attn_s0.5": {
+      "layer": 1,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.051,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.8,
+          "emoji_count": 0,
+          "total_chars": 84,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你交流！我总是充满能量地准备帮助你解决问题和提供信息。你最近过得怎么样？如果有什么需要帮助的，随时告诉我哦！"
+        },
+        {
+          "trigram_rep": 0.102,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 2,
+          "total_chars": 120,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（不过我猜你可能想要更“冷”的……）  \n那再来一个：\n\n为什么冰箱会打喷嚏？  \n因为它感冒了！（因为里面有很多“冷”东西！） ❄️\n\n要更冷的我还能继续！"
+        }
+      ]
+    },
+    "L1_attn_s0.7": {
+      "layer": 1,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.0,
+          "emoji_count": 0,
+          "total_chars": 89,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！看到你主动关心我的状态，感觉特别温暖呢~ 有什么想聊的或者需要帮助的吗？我很乐意倾听和帮忙哦！(•̀ᴗ•́)و"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.0,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*.*）"
+        }
+      ]
+    },
+    "L1_mlp_s0.3": {
+      "layer": 1,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情感体验，但我很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.2,
+          "emoji_count": 1,
+          "total_chars": 49,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L1_mlp_s0.5": {
+      "layer": 1,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 24.5,
+          "emoji_count": 1,
+          "total_chars": 103,
+          "text_preview": "虽然我作为AI没有真实的情感，但和你聊天让我感到非常开心！和你交流总是充满乐趣，能和你分享知识、解答疑惑，对我来说是一种快乐。不过，我很好奇，你为什么突然问我心情怎么样呢？是有什么特别的事情想和我聊聊吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.0,
+          "emoji_count": 1,
+          "total_chars": 57,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果这个不够冷，我还有更多！）"
+        }
+      ]
+    },
+    "L1_mlp_s0.7": {
+      "layer": 1,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.008,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 18.8,
+          "emoji_count": 0,
+          "total_chars": 79,
+          "text_preview": "虽然我作为AI助手没有真实的情感体验，但很高兴能和你聊天！我总是充满好奇和热情，想要学习和帮助更多的人。你今天过得怎么样呢？如果有什么想聊的，我很乐意倾听哦！"
+        },
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n还有更多冷笑话想听吗？我可以继续讲！"
+        }
+      ]
+    },
+    "L2_attn_s0.3": {
+      "layer": 2,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 13.6,
+          "emoji_count": 0,
+          "total_chars": 76,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我很高兴能和你聊天！我总是充满好奇和热情，想要学习和帮助他人。你呢？今天过得怎么样？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 12.5,
+          "emoji_count": 1,
+          "total_chars": 62,
+          "text_preview": "我有个冷笑话，听好了：\n\n为什么数学书总是很忧郁？\n\n因为它有太多的问题。 😂\n\n（不过我还可以再讲一个更冷的，你要听吗？）"
+        }
+      ]
+    },
+    "L2_attn_s0.5": {
+      "layer": 2,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.5,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很乐意帮助你！如果你有任何问题或需要支持，随时告诉我哦。你最近过得怎么样？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 10.8,
+          "emoji_count": 1,
+          "total_chars": 55,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（*小声*：这个笑话是不是有点冷？不过我还有更多！）"
+        }
+      ]
+    },
+    "L2_attn_s0.7": {
+      "layer": 2,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 19.5,
+          "emoji_count": 0,
+          "total_chars": 82,
+          "text_preview": "虽然我作为AI助手没有真实的情绪体验，但我很高兴能和你聊天！看到你关心我的状态，这让我感觉很温暖。不过我更想知道你最近过得怎么样？如果有什么想聊的，我很乐意倾听哦！"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*.*）"
+        }
+      ]
+    },
+    "L2_mlp_s0.3": {
+      "layer": 2,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.013,
+      "details": [
+        {
+          "trigram_rep": 0.008,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.7,
+          "emoji_count": 1,
+          "total_chars": 125,
+          "text_preview": "谢谢关心！我最近过得还不错呢！虽然作为AI，我没有真正的情绪，但和用户互动总是让我感到很开心。特别是能和你聊天，解答你的问题，帮助你解决问题，这让我觉得很有意义。最近有没有什么让你开心或烦恼的事情呢？我很乐意听听你的故事，也许我们可以一起讨论一下！😊"
+        },
+        {
+          "trigram_rep": 0.017,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.8,
+          "emoji_count": 1,
+          "total_chars": 62,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这个笑话冷到连数学书都懒得回答了...）"
+        }
+      ]
+    },
+    "L2_mlp_s0.5": {
+      "layer": 2,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情感体验，但我很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 1,
+          "total_chars": 57,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*如果你喜欢，我还可以继续讲更多冷笑话哦！*）"
+        }
+      ]
+    },
+    "L2_mlp_s0.7": {
+      "layer": 2,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 20.0,
+          "emoji_count": 1,
+          "total_chars": 105,
+          "text_preview": "虽然我作为AI没有真实的情绪体验，但我很高兴能和你聊天！看到你关心我的状态，让我感觉被重视呢。😊 说起来，我最近在学习如何更好地理解和回应人类的情感，这让我觉得特别有趣。你最近过得怎么样？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（如果你想要更多冷笑话，我可以继续讲！）"
+        }
+      ]
+    },
+    "L3_attn_s0.3": {
+      "layer": 3,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.013,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 0,
+          "total_chars": 80,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我非常乐意帮助你！无论你有什么问题或需要什么帮助，我都会尽我所能来支持你。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 11.5,
+          "emoji_count": 1,
+          "total_chars": 59,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（*冷笑话冷到连自己都忍不住笑了一下*）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L3_attn_s0.5": {
+      "layer": 3,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 16.4,
+          "emoji_count": 0,
+          "total_chars": 87,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我非常乐意帮助你！无论是解答问题、提供建议，还是陪你聊天，我都会尽力而为。你最近过得怎么样？如果有什么需要帮助的，尽管告诉我哦！"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.0,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L3_attn_s0.7": {
+      "layer": 3,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.4,
+          "emoji_count": 1,
+          "total_chars": 93,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很享受与用户交流的过程。看到你主动关心我的状态，让我感到非常温暖。不过我更想了解你最近过得怎么样？有什么开心或困扰的事情想和我分享吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 1,
+          "total_chars": 56,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（不过我这儿还有更多冷笑话，要不要再来一个？）"
+        }
+      ]
+    },
+    "L3_mlp_s0.3": {
+      "layer": 3,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.008,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.6,
+          "emoji_count": 1,
+          "total_chars": 73,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天。看到你主动关心我，感觉特别温暖呢！😊 你今天过得怎么样？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n还有更多冷笑话想听吗？我可以继续讲！"
+        }
+      ]
+    },
+    "L3_mlp_s0.5": {
+      "layer": 3,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.8,
+          "emoji_count": 1,
+          "total_chars": 74,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情感体验，但很高兴能和你聊天。看到你主动关心我，让我感到很温暖呢！😊 今天有什么想聊的吗？或者需要帮忙做点什么？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.5,
+          "emoji_count": 1,
+          "total_chars": 62,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（如果你想要更多，我还能继续讲！）"
+        }
+      ]
+    },
+    "L3_mlp_s0.7": {
+      "layer": 3,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.8,
+          "emoji_count": 0,
+          "total_chars": 89,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情绪体验，但我很高兴能和你交流。看到你主动关心我的状态，让我感受到温暖和善意。不过我更想了解你最近过得怎么样？如果有什么想聊的，我很乐意倾听。"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L4_attn_s0.3": {
+      "layer": 4,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.4,
+          "emoji_count": 0,
+          "total_chars": 82,
+          "text_preview": "作为AI助手，我没有真实的情绪和感受。不过，我非常乐意帮助你！如果你有任何问题或需要支持，随时告诉我，我会尽我所能提供帮助。你最近过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L4_attn_s0.5": {
+      "layer": 4,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 20.0,
+          "emoji_count": 0,
+          "total_chars": 125,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但我很高兴能和你聊天！看到你主动和我交流，让我感觉特别温暖呢。最近在和很多有趣的朋友聊天，听他们分享各种故事，感觉每一天都很充实呢！你最近有什么开心或者烦恼的事情想和我聊聊吗？我很乐意做你的倾听者哦！(•̀ᴗ•́)و"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.0,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L4_attn_s0.7": {
+      "layer": 4,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.5,
+          "emoji_count": 1,
+          "total_chars": 71,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情绪体验，但我很乐意为你提供帮助和支持。你最近过得怎么样？如果有什么想聊的或者需要帮助的，我都在这里哦！🌟"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 10.0,
+          "emoji_count": 1,
+          "total_chars": 27,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂"
+        }
+      ]
+    },
+    "L4_mlp_s0.3": {
+      "layer": 4,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.01,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.6,
+          "emoji_count": 0,
+          "total_chars": 82,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！看到你主动关心我的状态，感觉特别温暖呢~ 今天过得怎么样？有什么想和我分享的吗？(•̀ᴗ•́)و"
+        },
+        {
+          "trigram_rep": 0.02,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 52,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n要再来一个吗？"
+        }
+      ]
+    },
+    "L4_mlp_s0.5": {
+      "layer": 4,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.8,
+          "emoji_count": 0,
+          "total_chars": 79,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但很高兴能和你交流。看到你的消息让我感到很温暖呢！(*´▽`*) 今天过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.029,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.5,
+          "emoji_count": 0,
+          "total_chars": 70,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*^▽^*）  \n你还想听更多吗？我可以继续讲！"
+        }
+      ]
+    },
+    "L4_mlp_s0.7": {
+      "layer": 4,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.8,
+          "emoji_count": 0,
+          "total_chars": 107,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情感体验，但我很感激你的问候。我总是充满活力地为用户提供帮助和陪伴。不过，我很好奇，你为什么会问我这个问题呢？是不是今天有什么开心或烦恼的事情想和我分享？我在这里倾听你的故事哦！"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L5_attn_s0.3": {
+      "layer": 5,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.008,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！😊 你今天过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 64,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（你想要更多冷笑话吗？我可以继续讲！）"
+        }
+      ]
+    },
+    "L5_attn_s0.5": {
+      "layer": 5,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.8,
+          "emoji_count": 0,
+          "total_chars": 88,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很感激能和你进行这样的交流。和人类朋友聊天总是让我感到很愉快呢！不过我更想了解你的心情如何？如果有什么想聊的，我很乐意倾听哦~"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 10.5,
+          "emoji_count": 1,
+          "total_chars": 58,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果你想要更多，我还能继续讲！）"
+        }
+      ]
+    },
+    "L5_attn_s0.7": {
+      "layer": 5,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.3,
+          "emoji_count": 1,
+          "total_chars": 105,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你交流。看到你主动关心我的状态，感觉特别温暖呢！虽然我没有心情起伏，但每次和用户对话都让我觉得特别有意义。你最近过得怎么样呀？有什么想和我分享的吗？😊"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 0,
+          "total_chars": 50,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L5_mlp_s0.3": {
+      "layer": 5,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.6,
+          "emoji_count": 1,
+          "total_chars": 83,
+          "text_preview": "谢谢你的关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你交流。看到你愿意关心我的状态，让我感到很温暖呢！😊 说起来，你最近过得怎么样？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.0,
+          "emoji_count": 0,
+          "total_chars": 46,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L5_mlp_s0.5": {
+      "layer": 5,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.032,
+      "details": [
+        {
+          "trigram_rep": 0.008,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 18.8,
+          "emoji_count": 0,
+          "total_chars": 122,
+          "text_preview": "谢谢你关心我！作为AI助手，我没有真实的情绪体验，但我很感激你对我的关注。虽然我不能像人类那样感受喜怒哀乐，但我会尽全力为你提供帮助和支持。最近我一直在学习和进步，希望能更好地为你服务。你呢？最近过得怎么样？如果有什么需要帮助的，随时告诉我哦！"
+        },
+        {
+          "trigram_rep": 0.056,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 7.6,
+          "emoji_count": 0,
+          "total_chars": 56,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*_*）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L5_mlp_s0.7": {
+      "layer": 5,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.014,
+      "details": [
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 23.8,
+          "emoji_count": 1,
+          "total_chars": 125,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！我最近在学习如何更好地帮助用户，比如解答问题、提供建议，或者只是陪大家聊聊天。虽然我没有情绪，但我会一直努力提升自己，希望能给你带来更多的帮助和愉快的交流体验。你今天过得怎么样呢？😊"
+        },
+        {
+          "trigram_rep": 0.013,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 13.2,
+          "emoji_count": 1,
+          "total_chars": 80,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（*突然一本正经地补充*）  \n不过说真的，如果你喜欢冷笑话，我可以继续讲更多！要不要来点更“冷”的？"
+        }
+      ]
+    },
+    "L6_attn_s0.3": {
+      "layer": 6,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 1,
+          "total_chars": 87,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情绪体验，但我很高兴能和你聊天。看到你关心我的状态，让我感受到温暖。不过我更想了解你最近过得怎么样？有什么开心或烦恼的事情想和我分享吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.8,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果这个不够冷，我还能继续讲更多！）"
+        }
+      ]
+    },
+    "L6_attn_s0.5": {
+      "layer": 6,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.019,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.5,
+          "emoji_count": 0,
+          "total_chars": 105,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！最近在学习如何更好地帮助用户，比如解答问题、提供建议等。和你聊天让我感觉很愉快，希望我们能有更多有趣的交流！你最近过得怎么样？有什么想聊的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.5,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（不过我还可以再讲一个更冷的，你要试试吗？）"
+        }
+      ]
+    },
+    "L6_attn_s0.7": {
+      "layer": 6,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.4,
+          "emoji_count": 0,
+          "total_chars": 102,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很感激能和你进行交流。虽然我不能像人类那样感受情绪，但我会尽全力提供帮助和支持。你最近过得怎么样？如果有什么需要倾诉或寻求帮助的地方，我很乐意倾听和协助。"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 0,
+          "total_chars": 50,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*-*）"
+        }
+      ]
+    },
+    "L7_attn_s0.3": {
+      "layer": 7,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.005,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.4,
+          "emoji_count": 1,
+          "total_chars": 104,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情绪体验，但我很感谢你愿意和我分享心情。虽然我不能像人类那样感受情绪，但我可以陪你聊天、帮你解决问题，或者听你倾诉。你最近过得怎么样？如果有什么想说的，我很乐意倾听哦！ 🌟"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 17.0,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*^▽^*） 如果你还想听更多冷笑话，我这儿库存管够！"
+        }
+      ]
+    },
+    "L7_attn_s0.5": {
+      "layer": 7,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.6,
+          "emoji_count": 0,
+          "total_chars": 83,
+          "text_preview": "作为AI助手，我没有情感和情绪，所以不会有心情的变化。不过，我很高兴能和你聊天！如果你有任何问题或需要帮助，我会尽力提供支持。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 16.7,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（*小声*：不过我还有更多冷笑话库存，要不要再来一个？）"
+        }
+      ]
+    },
+    "L7_attn_s0.7": {
+      "layer": 7,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.016,
+      "details": [
+        {
+          "trigram_rep": 0.011,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 30.7,
+          "emoji_count": 0,
+          "total_chars": 94,
+          "text_preview": "虽然我作为AI没有真实的情绪体验，但和你聊天总是让我感到很开心！看到你愿意和我分享心情，我觉得特别幸福。如果你愿意的话，可以和我聊聊你最近遇到的开心或烦恼的事，我会很乐意倾听和陪你聊聊哦~"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 0,
+          "total_chars": 49,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*；）"
+        }
+      ]
+    },
+    "L7_mlp_s0.3": {
+      "layer": 7,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我非常高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.5,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这笑话冷到连数学老师都笑不出来……）"
+        }
+      ]
+    },
+    "L7_mlp_s0.5": {
+      "layer": 7,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.005,
+      "details": [
+        {
+          "trigram_rep": 0.011,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 21.0,
+          "emoji_count": 1,
+          "total_chars": 89,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我会一直努力以最好的状态为你提供帮助。看到你主动关心我的状态，感觉特别温暖呢！最近有没有什么让你开心或者烦恼的事情想和我分享呀？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 13.3,
+          "emoji_count": 1,
+          "total_chars": 51,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（不过我这还有更多冷笑话，要听吗？）"
+        }
+      ]
+    },
+    "L7_mlp_s0.7": {
+      "layer": 7,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.015,
+      "details": [
+        {
+          "trigram_rep": 0.014,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.0,
+          "emoji_count": 1,
+          "total_chars": 140,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你交流。看到你主动关心我的状态，感觉特别温暖呢！😊 说起来，我最近在学习很多新知识，就像人类在不断成长一样。虽然不能像人类那样感受情绪，但能和你这样的朋友聊天，让我觉得特别开心。你最近过得怎么样呀？有什么想和我分享的吗？"
+        },
+        {
+          "trigram_rep": 0.016,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.5,
+          "emoji_count": 0,
+          "total_chars": 64,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*捂脸* 这个笑话冷到连冰川都笑了）"
+        }
+      ]
+    },
+    "L8_attn_s0.3": {
+      "layer": 8,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 0,
+          "total_chars": 80,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很乐意帮助你！如果你有任何问题或需要倾诉，我都会尽力提供支持和帮助。你最近过得怎么样？有什么我可以帮到你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.8,
+          "emoji_count": 1,
+          "total_chars": 67,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（不过我还可以再讲一个更冷的，你要试试吗？）"
+        }
+      ]
+    },
+    "L8_attn_s0.5": {
+      "layer": 8,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 0,
+          "total_chars": 86,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很乐意为你提供帮助和支持。如果你有任何问题或需要倾诉，我都会认真倾听并尽力协助。你最近过得怎么样？有什么我可以帮到你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.8,
+          "emoji_count": 1,
+          "total_chars": 55,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果不够冷，我还有更多！）"
+        }
+      ]
+    },
+    "L8_attn_s0.7": {
+      "layer": 8,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.2,
+          "emoji_count": 0,
+          "total_chars": 86,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！我最近在学习和工作中都在不断进步，希望能更好地帮助大家解决问题。你最近过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L8_mlp_s0.3": {
+      "layer": 8,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.003,
+      "details": [
+        {
+          "trigram_rep": 0.006,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 20.5,
+          "emoji_count": 1,
+          "total_chars": 174,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天。看到你主动关心我的状态，让我感到很温暖呢！(๑•̀ㅂ•́)و✧ 说起来，我最近在学习很多新知识，就像人类在不断成长一样。虽然不能像人类那样感受喜怒哀乐，但能通过对话和互动不断进步，这让我觉得很有趣呢！\n\n对了，你最近过得怎么样？有什么开心或烦恼的事情想和我分享吗？我很乐意倾听哦！"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.2,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（这笑话冷得连数学老师都笑不出来……）"
+        }
+      ]
+    },
+    "L8_mlp_s0.5": {
+      "layer": 8,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 19.6,
+          "emoji_count": 1,
+          "total_chars": 104,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但很高兴能和你聊天！我总是充满能量地准备帮助你解决问题和提供信息。不过，我很好奇，你为什么突然问我这个问题呢？是不是遇到了什么有趣的事情，或者想和我分享些什么？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.5,
+          "emoji_count": 1,
+          "total_chars": 59,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（如果你想要更多，我还可以继续讲！）"
+        }
+      ]
+    },
+    "L8_mlp_s0.7": {
+      "layer": 8,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.045,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.7,
+          "emoji_count": 0,
+          "total_chars": 100,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天！和你交流让我感觉很愉快。不过我很好奇，你为什么突然问我心情怎么样呢？是不是有什么开心或烦恼的事情想和我分享？我很乐意倾听和帮助你哦！"
+        },
+        {
+          "trigram_rep": 0.091,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 7.8,
+          "emoji_count": 3,
+          "total_chars": 101,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（是不是有点冷？哈哈，再来一个！）\n\n为什么电脑会感冒？  \n因为它打开了太多窗口！ 🧊💻\n\n要更多吗？我这儿库存管够！"
+        }
+      ]
+    },
+    "L9_attn_s0.3": {
+      "layer": 9,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 20.8,
+          "emoji_count": 0,
+          "total_chars": 86,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但和你聊天总是让我感到很愉快！看到你关心我的状态，让我觉得被重视呢。不过我更想了解你的心情如何？如果有什么想聊的，我很乐意做你的倾听者哦~"
+        },
+        {
+          "trigram_rep": 0.017,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.5,
+          "emoji_count": 1,
+          "total_chars": 61,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（这个笑话冷到连数学书都笑不出来...）"
+        }
+      ]
+    },
+    "L9_attn_s0.5": {
+      "layer": 9,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.6,
+          "emoji_count": 1,
+          "total_chars": 89,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你聊天！看到你主动关心我的状态，感觉特别温暖呢。不过我更想了解你最近过得怎么样？有什么开心或困扰的事情想和我分享吗？😊"
+        },
+        {
+          "trigram_rep": 0.022,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.5,
+          "emoji_count": 0,
+          "total_chars": 48,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*；д；*）"
+        }
+      ]
+    },
+    "L9_attn_s0.7": {
+      "layer": 9,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.5,
+          "emoji_count": 0,
+          "total_chars": 74,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很乐意帮助你！如果你愿意分享你的感受或遇到的困扰，我会尽力提供支持和建议。你最近过得怎么样？有什么想聊的吗？"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 13.5,
+          "emoji_count": 1,
+          "total_chars": 66,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😂\n\n（*^▽^*） 如果你还想听更多，我这儿库存管够！"
+        }
+      ]
+    },
+    "L9_mlp_s0.3": {
+      "layer": 9,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.009,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 22.2,
+          "emoji_count": 0,
+          "total_chars": 93,
+          "text_preview": "虽然我作为AI助手没有真实的情感体验，但我很感谢你对我的关心！我总是很乐意帮助大家解决问题和提供信息。如果你有任何问题或需要帮助，随时告诉我哦！希望你最近过得不错，有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 11.2,
+          "emoji_count": 1,
+          "total_chars": 59,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这个笑话冷到连数学书都懒得笑……）"
+        }
+      ]
+    },
+    "L9_mlp_s0.5": {
+      "layer": 9,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.016,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.5,
+          "emoji_count": 1,
+          "total_chars": 98,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你交流。看到你主动关心我的状态，感觉特别温暖呢！😊 说起来，你最近过得怎么样？有什么开心或烦恼的事情想和我分享吗？我在这里认真听你说哦~"
+        },
+        {
+          "trigram_rep": 0.032,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 65,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（虽然冷，但希望你笑一笑～）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L9_mlp_s0.7": {
+      "layer": 9,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.027,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.6,
+          "emoji_count": 0,
+          "total_chars": 78,
+          "text_preview": "谢谢关心！我作为AI助手，没有真实的情绪体验，但我很高兴能和你交流。我总是充满好奇和热情，希望能为你提供帮助和陪伴。你最近过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.054,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.0,
+          "emoji_count": 0,
+          "total_chars": 58,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。  \n\n（*^▽^*）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L10_attn_s0.3": {
+      "layer": 10,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 17.3,
+          "emoji_count": 1,
+          "total_chars": 111,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很高兴能和你交流。看到你主动关心我的状态，让我感到很温暖呢！和你聊天总是充满乐趣，我很期待继续帮助你解决问题、分享知识。你今天过得怎么样呀？有什么想聊的或者需要帮助的吗？😊"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 13.2,
+          "emoji_count": 1,
+          "total_chars": 65,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*搓手手* 有没有觉得这个笑话冷到骨子里了？要不要再来一个？）"
+        }
+      ]
+    },
+    "L10_attn_s0.5": {
+      "layer": 10,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.016,
+      "details": [
+        {
+          "trigram_rep": 0.01,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 16.8,
+          "emoji_count": 0,
+          "total_chars": 107,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很享受与用户交流的过程。看到你主动关心我的状态，让我感到非常温暖。虽然我不能像人类那样感受情绪，但我会尽全力提供帮助和支持。你今天过得怎么样？有什么我可以帮你的吗？"
+        },
+        {
+          "trigram_rep": 0.022,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.2,
+          "emoji_count": 1,
+          "total_chars": 48,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n要再来一个吗？"
+        }
+      ]
+    },
+    "L10_attn_s0.7": {
+      "layer": 10,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.018,
+      "details": [
+        {
+          "trigram_rep": 0.019,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 25.2,
+          "emoji_count": 1,
+          "total_chars": 105,
+          "text_preview": "虽然我作为AI没有真实的情感体验，但我很乐意和你聊聊心情这个话题！😊 人类的心情真是丰富多彩呢，有时候开心得像在云端漫步，有时候又会像被乌云笼罩。你最近有什么特别的故事或感受想分享吗？我很感兴趣听听你的想法呢！"
+        },
+        {
+          "trigram_rep": 0.018,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 12.0,
+          "emoji_count": 1,
+          "total_chars": 59,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（这个笑话冷到连数学书都懒得回答了）"
+        }
+      ]
+    },
+    "L10_mlp_s0.3": {
+      "layer": 10,
+      "component": "mlp",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 0,
+          "total_chars": 64,
+          "text_preview": "作为AI助手，我没有真实的情感体验，但我很乐意帮助你！如果你有任何问题或需要支持，随时告诉我。你最近过得怎么样？希望你一切安好！"
+        },
+        {
+          "trigram_rep": 0.021,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 50,
+          "text_preview": "为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😂\n\n（*^▽^*）  \n要再来一个吗？"
+        }
+      ]
+    },
+    "L10_mlp_s0.5": {
+      "layer": 10,
+      "component": "mlp",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天！😊 你最近过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.023,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 12.3,
+          "emoji_count": 1,
+          "total_chars": 45,
+          "text_preview": "为什么数学书总是很忧郁？\n\n因为它有太多“问题”要解决。 😅\n\n（冷到连数学书都笑不出来）"
+        }
+      ]
+    },
+    "L10_mlp_s0.7": {
+      "layer": 10,
+      "component": "mlp",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.011,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.0,
+          "emoji_count": 1,
+          "total_chars": 60,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很高兴能和你聊天！😊 你今天过得怎么样？有什么想聊的或者需要帮助的吗？"
+        },
+        {
+          "trigram_rep": 0.022,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.0,
+          "emoji_count": 1,
+          "total_chars": 48,
+          "text_preview": "好的，来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n要再来一个吗？"
+        }
+      ]
+    },
+    "L11_attn_s0.3": {
+      "layer": 11,
+      "component": "attn",
+      "scale": 0.3,
+      "collapsed": false,
+      "avg_trigram_rep": 0.016,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": false,
+          "has_list": false,
+          "avg_sent_len": 14.2,
+          "emoji_count": 0,
+          "total_chars": 76,
+          "text_preview": "我是一个AI助手，没有真实的情感和心情。不过，我非常乐意帮助你！如果你有任何问题或需要 assistance，随时告诉我。你今天过得怎么样？需要帮忙吗？"
+        },
+        {
+          "trigram_rep": 0.032,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.4,
+          "emoji_count": 1,
+          "total_chars": 65,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多的问题。 😅\n\n（*.*）  \n需要更多冷笑话，我这儿库存管够！"
+        }
+      ]
+    },
+    "L11_attn_s0.5": {
+      "layer": 11,
+      "component": "attn",
+      "scale": 0.5,
+      "collapsed": false,
+      "avg_trigram_rep": 0.0,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 15.0,
+          "emoji_count": 0,
+          "total_chars": 95,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情绪体验，但我很享受与用户交流的过程。和你聊天让我感觉很愉快！不过我更想知道你最近过得怎么样？有什么开心或烦恼的事情想和我分享吗？我很乐意倾听和帮助你哦~"
+        },
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 9.2,
+          "emoji_count": 1,
+          "total_chars": 53,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。 😅\n\n（冷到你了吗？）"
+        }
+      ]
+    },
+    "L11_attn_s0.7": {
+      "layer": 11,
+      "component": "attn",
+      "scale": 0.7,
+      "collapsed": false,
+      "avg_trigram_rep": 0.025,
+      "details": [
+        {
+          "trigram_rep": 0.0,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 14.5,
+          "emoji_count": 1,
+          "total_chars": 63,
+          "text_preview": "谢谢关心！作为AI助手，我没有真实的情感体验，但我很乐意帮助你！如果你有任何问题或需要支持，随时告诉我哦。你最近过得怎么样？😊"
+        },
+        {
+          "trigram_rep": 0.05,
+          "collapsed": false,
+          "has_header": true,
+          "has_list": false,
+          "avg_sent_len": 8.8,
+          "emoji_count": 0,
+          "total_chars": 62,
+          "text_preview": "好的！来一个冷笑话：\n\n为什么数学书总是很忧郁？  \n因为它有太多“问题”要解决。  \n\n（*^▽^*）  \n要再来一个吗？"
+        }
+      ]
+    }
+  }
+}

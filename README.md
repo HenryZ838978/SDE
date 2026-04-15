@@ -192,10 +192,13 @@ data/
 ```bibtex
 @software{sde2026,
   title  = {SDE: Semantic DarkSpace Expression},
-  author = {Jing Zhang},
+  author = {Zhang, Jing},
   url    = {https://github.com/HenryZ838978/SDE},
   year   = {2026}
 }
 ```
+
+> **📄 This work is part of a larger research program.** See the full theory paper:
+> [The Representational Budget: Scale, RL, and Multimodal Alignment Compete for Geometric Potential in Transformers](https://doi.org/10.5281/zenodo.19585083) (DOI: `10.5281/zenodo.19585083`)
 
 <sub>80 components scanned · 3 crash-critical · 38 format-lock · 11 combo configs · 88 generations · 0% collapse at full dark space activation · the poetry was always there</sub>

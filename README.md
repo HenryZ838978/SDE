@@ -1,3 +1,5 @@
+> 📦 **This project has moved (2026-08-27).** Now part of the [**RepELab**](https://github.com/HenryZ838978/RepELab) monorepo as [`sde/`](https://github.com/HenryZ838978/RepELab/tree/main/sde) — the full research line (observation → instrument → finding → intervention → application) lives there. This repo is archived and read-only; links and citations remain valid.
+
 # SDE — Semantic DarkSpace Expression
 
 ### 语义暗区激活
